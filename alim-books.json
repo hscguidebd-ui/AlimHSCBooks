@@ -1,0 +1,242 @@
+[
+  {
+    "books": [
+      {
+        "pdf_link": "https://drive.egovcloud.gov.bd/index.php/s/gAg4tVBh1NtC7fI/download",
+        "subject_id": "hsc_shahitya_tb",
+        "subject_name_bn": "বাংলা সাহিত্যপাঠ",
+        "subject_name_en": "Bangla ShahityaPath"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCTB/HSC.Sohopath.pdf",
+        "subject_id": "hsc_shahapath_tb",
+        "subject_name_bn": "বাংলা সহপাঠ",
+        "subject_name_en": "Bangla ShahaPath"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCTB/HSC.English.pdf",
+        "subject_id": "hsc_eft_tb",
+        "subject_name_bn": "ইংরেজি ১ম পত্র",
+        "subject_name_en": "English for Today"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCTB/HSC.ICT.BV.pdf",
+        "subject_id": "hsc_ict_bn_tb",
+        "subject_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি (বাংলা ভার্সন)",
+        "subject_name_en": "ICT (Bangla Version)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCTB/HSC.ICT.EV.pdf",
+        "subject_id": "hsc_ict_en_tb",
+        "subject_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি (ইংরেজি ভার্সন)",
+        "subject_name_en": "ICT (English Version)"
+      }
+    ],
+    "class_description": "এইচএসসি ও আলিম পাঠ্যবই হলো এনসিটিবি (NCTB) নির্ধারিত একাদশ-দ্বাদশ শ্রেণির মূল ভিত্তি। বোর্ড পরীক্ষায় ভালো ফলাফল ও বিশ্ববিদ্যালয় ভর্তির প্রস্তুতির জন্য এই বইগুলো অপরিহার্য। অ্যাপের মাধ্যমে খুব সহজেই এখন এই বইগুলোর ডিজিটাল সংস্করণ পড়া যাবে।",
+    "class_id": "hsc_textbooks",
+    "class_name_bn": "এইচএসসি-আলিম পাঠ্যবই",
+    "class_name_en": "HSC-Alim Textbooks"
+  },
+  {
+    "books": [
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/01.Alim.Quran.Mazid.Guide.pdf",
+        "subject_id": "alim_quran_gb",
+        "subject_name_bn": "কুরআন মাজিদ",
+        "subject_name_en": "Quran Mazid"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/02.Alim.Hadith.Usulul.Hadith.Guide.pdf",
+        "subject_id": "alim_hadith_gb",
+        "subject_name_bn": "হাদিস ও উসূলুল হাদিস",
+        "subject_name_en": "Hadith & Usulul Hadith"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/03.Alim.Al.Fiqah.1st.Paper.pdf",
+        "subject_id": "alim_fiqh_1st_gb",
+        "subject_name_bn": "আল ফিকহ ১ম পত্র",
+        "subject_name_en": "Al Fiqh 1st Paper"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/04.Alim.Al.Fiqah.2nd.Paper.pdf",
+        "subject_id": "alim_fiqh_2nd_gb",
+        "subject_name_bn": "আল ফিকহ ২য় পত্র",
+        "subject_name_en": "Al Fiqh 2nd Paper"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/05.Alim.Arabic.1st.Paper.pdf",
+        "subject_id": "alim_arabic_1st_gb",
+        "subject_name_bn": "আরবি ১ম পত্র",
+        "subject_name_en": "Arabic 1st Paper"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/06.Alim.Arabic.2nd.Paper.pdf",
+        "subject_id": "alim_arabic_2nd_gb",
+        "subject_name_bn": "আরবি ২য় পত্র",
+        "subject_name_en": "Arabic 2nd Paper"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/07.Alim.Balagat.Mantik.pdf",
+        "subject_id": "alim_balagat_gb",
+        "subject_name_bn": "বালাগাত ও মানতিক",
+        "subject_name_en": "Balagat & Mantiq"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/08.Alim.Islamic.History.pdf",
+        "subject_id": "alim_history_gb",
+        "subject_name_bn": "ইসলামের ইতিহাস",
+        "subject_name_en": "Islamic History"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/09.Alim.ICT.pdf",
+        "subject_id": "alim_ict_gb",
+        "subject_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "subject_name_en": "Alim ICT"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/10.Alim.Economics.1st.Paper.pdf",
+        "subject_id": "alim_eco_1st_gb",
+        "subject_name_bn": "অর্থনীতি ১ম পত্র",
+        "subject_name_en": "Economics 1st Paper"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/AlimBooks/11.Alim.Economics.2nd.Paper.pdf",
+        "subject_id": "alim_eco_2nd_gb",
+        "subject_name_bn": "অর্থনীতি ১ম পত্র",
+        "subject_name_en": "Economics 1st Paper"
+      }
+    ],
+    "class_description": "আলিম পরীক্ষার সেরা প্রস্তুতির জন্য নির্ভরযোগ্য সহায়ক গাইড বই। মূল পাঠ্যবইয়ের পাশাপাশি সৃজনশীল ও বহুনির্বাচনী প্রশ্নের সঠিক অনুশীলন এবং জটিল বিষয়গুলো সহজে বোঝার জন্য এই গাইডগুলো অত্যন্ত কার্যকরী। ভালো ফলাফলের লক্ষ্যে শিক্ষার্থীদের আত্মবিশ্বাস বাড়াতে এটি বিশেষ ভূমিকা রাখে।",
+    "class_id": "alim_guidebooks",
+    "class_name_bn": "আলিমের গাইড বই",
+    "class_name_en": "Alim Guidebooks"
+  },
+  {
+    "books": [
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/ICT.CQ.Part.+Practical.Guide.2026.pdf",
+        "subject_id": "hsc_2026_ictcgb",
+        "subject_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি ১ম খন্ড (সৃজনশীল ও ব্যবহারিক)",
+        "subject_name_en": "ICT 1st Part (Creative & Practical)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/ICT.MCQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_ictmcqgb",
+        "subject_name_bn": "আইসিটি ২য় খন্ড (বহুনির্বাচনি)",
+        "subject_name_en": "ICT 2nd Part (MCQ)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Physics.1st.Paper.CQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_phy1cq",
+        "subject_name_bn": "পদার্থবিজ্ঞান ১ম পত্র (সৃজনশীল)",
+        "subject_name_en": "Physics 1st Paper (Creative)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Physics.1st.Paper.MCQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_phy1mcq",
+        "subject_name_bn": "পদার্থবিজ্ঞান ১ম পত্র (বহুনির্বাচনি)",
+        "subject_name_en": "Physics 1st Paper (MCQ)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Physics.2nd.Paper.CQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_phy2cq",
+        "subject_name_bn": "পদার্থবিজ্ঞান ২য় পত্র (সৃজনশীল)",
+        "subject_name_en": "Physics 2nd Paper (Creative)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Physics.2nd.Paper.MCQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_phy2mcq",
+        "subject_name_bn": "পদার্থবিজ্ঞান ২য় পত্র (বহুনির্বাচনি)",
+        "subject_name_en": "Physics 2nd Paper (MCQ)"
+      },
+      {
+        "pdf_link": "null",
+        "subject_id": "hsc_2026_che1cq",
+        "subject_name_bn": "রসায়ন ১ম পত্র (সৃজনশীল)",
+        "subject_name_en": "Chemistry 1st Paper (Creative)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Chemistry.1st.Paper.CQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_che1mcq",
+        "subject_name_bn": "রসায়ন ১ম পত্র (বহুনির্বাচনি)",
+        "subject_name_en": "Chemistry 1st Paper (MCQ)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Chemistry.2nd.Paper.CQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_che2cq",
+        "subject_name_bn": "রসায়ন ২য় পত্র (সৃজনশীল)",
+        "subject_name_en": "Chemistry 2nd Paper (Creative)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Chemistry.2nd.Paper.MCQ.Guide.2023.pdf",
+        "subject_id": "hsc_2026_che2mcq",
+        "subject_name_bn": "রসায়ন ২য় পত্র (বহুনির্বাচনি)",
+        "subject_name_en": "Chemistry 2nd Paper (MCQ)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Higher.Math.1st.Paper.Basic.Concept.Guide.2026.pdf",
+        "subject_id": "hsc_2026_hmath1basic",
+        "subject_name_bn": "উচ্চতর গণিত ১ম পত্র (বেসিক কন্সেপ্ট)",
+        "subject_name_en": "Higher Math 1st Paper (Basic Concept)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Higher.Math.1st.Paper.CQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_hmath1cq",
+        "subject_name_bn": "উচ্চতর গণিত ১ম পত্র (সৃজনশীল)",
+        "subject_name_en": "Higher Math 1st Paper (Creative)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Higher.Math.1st.Paper.MCQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_hmath1mcq",
+        "subject_name_bn": "উচ্চতর গণিত ১ম পত্র (বহুনির্বাচনি)",
+        "subject_name_en": "Higher Math 1st Paper (MCQ)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Higher.Math.2nd.Paper.Basic.Concept.Guide.2026.pdf",
+        "subject_id": "hsc_2026_hmath2basic",
+        "subject_name_bn": "উচ্চতর গণিত ২য় পত্র (বেসিক কন্সেপ্ট)",
+        "subject_name_en": "Higher Math 2nd Paper (Basic Concept)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Higher.Math.2nd.Paper.CQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_hmath2cq",
+        "subject_name_bn": "উচ্চতর গণিত ২য় পত্র (সৃজনশীল)",
+        "subject_name_en": "Higher Math 2nd Paper (Creative)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Higher.Math.2nd.Paper.MCQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_hmath2mcq",
+        "subject_name_bn": "উচ্চতর গণিত ২য় পত্র (বহুনির্বাচনি)",
+        "subject_name_en": "Higher Math 2nd Paper (MCQ)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Biology.1st.Paper.CQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_bio1cq",
+        "subject_name_bn": "জীববিজ্ঞান ১ম পত্র (সৃজনশীল)",
+        "subject_name_en": "Biology 1st Paper (Creative)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Biology.1st.Paper.MCQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_bio1mcq",
+        "subject_name_bn": "জীববিজ্ঞান ১ম পত্র (বহুনির্বাচনি)",
+        "subject_name_en": "Biology 1st Paper (MCQ)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Biology.2nd.Paper.CQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_bio2cq",
+        "subject_name_bn": "জীববিজ্ঞান ২য় পত্র (সৃজনশীল)",
+        "subject_name_en": "Biology 2nd Paper (Creative)"
+      },
+      {
+        "pdf_link": "https://github.com/abswerit/alimbooks/releases/download/HSCBooks/Biology.2nd.Paper.MCQ.Part.Guide.2026.pdf",
+        "subject_id": "hsc_2026_bio2mcq",
+        "subject_name_bn": "জীববিজ্ঞান ২য় পত্র (বহুনির্বাচনি)",
+        "subject_name_en": "Biology 2nd Paper (MCQ)"
+      }
+    ],
+    "class_description": "এইচএসসি ২০২৬ পরীক্ষার্থীদের জন্য নতুন সিলেবাস ও মানবণ্টনের আলোকে রচিত লেটেস্ট গাইড বই। প্রতিটি অধ্যায়ের সৃজনশীল (CQ) ও বহুনির্বাচনী (MCQ) প্রশ্নের নির্ভুল সমাধান এবং বিগত বছরের গুরুত্বপূর্ণ প্রশ্ন বিশ্লেষণের মাধ্যমে সেরা প্রস্তুতি নিশ্চিত করতে এই গাইডগুলো অপরিহার্য।",
+    "class_id": "hsc_2026_gb",
+    "class_name_bn": "এইচএসসি ২০২৬ গাইড বই",
+    "class_name_en": "HSC 2026 Guidebooks"
+  }
+]
