@@ -1,0 +1,452 @@
+[
+  {
+    "class_id": "hsc_ev_books",
+    "class_name_en": "HSC English Version",
+    "class_name_bn": "এইচএসসি ইংলিশ ভার্সন",
+    "subjects": [
+      {
+        "subject_name_en": "Chemistry 1st Paper (Dagano)",
+        "subject_name_bn": "রসায়ন ১ম পত্র (দাগানো)",
+        "chapters": [
+          {
+            "chapter_name": "Chapter 01: Safe Use Of Laboratory",
+            "file_name": "EV_Chemistry_1st_Paper_Chapter_01_Safe_Use_Of_Laboratory_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_1st_Paper_Chapter_01_Safe_Use_Of_Laboratory_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 02: Qulititive Chemistry",
+            "file_name": "EV_Chemistry_1st_Paper_Chapter_02_Qulititive_Chemistry_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_1st_Paper_Chapter_02_Qulititive_Chemistry_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 03: Periodic Properties Bonding in Elements",
+            "file_name": "EV_Chemistry_1st_Paper_Chapter_03_Periodic_Properties_Bonding_in_Elements_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_1st_Paper_Chapter_03_Periodic_Properties_Bonding_in_Elements_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 04: Chemical Changes (1",
+            "file_name": "EV_Chemistry_1st_Paper_Chapter_04_Chemical_Changes_1_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_1st_Paper_Chapter_04_Chemical_Changes_1_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 05: Vocational Chemistry",
+            "file_name": "EV_Chemistry_1st_Paper_Chapter_05_Vocational_Chemistry_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_1st_Paper_Chapter_05_Vocational_Chemistry_Dagano.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Chemistry 2nd Paper (Dagano)",
+        "subject_name_bn": "রসায়ন ২য় পত্র (দাগানো)",
+        "chapters": [
+          {
+            "chapter_name": "Chapter 01: Environmental Chemistry",
+            "file_name": "EV_Chemistry_2nd_Paper_Chapter_01_Environmental_Chemistry_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_2nd_Paper_Chapter_01_Environmental_Chemistry_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 02: Organic Chemistry",
+            "file_name": "EV_Chemistry_2nd_Paper_Chapter_02_Organic_Chemistry_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_2nd_Paper_Chapter_02_Organic_Chemistry_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 03: Stoichiometric Chemistry",
+            "file_name": "EV_Chemistry_2nd_Paper_Chapter_03_Stoichiometric_Chemistry_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_2nd_Paper_Chapter_03_Stoichiometric_Chemistry_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 04: Electro Chemistry",
+            "file_name": "EV_Chemistry_2nd_Paper_Chapter_04_Electro_Chemistry_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_2nd_Paper_Chapter_04_Electro_Chemistry_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 05: Economic Chemistry",
+            "file_name": "EV_Chemistry_2nd_Paper_Chapter_05_Economic_Chemistry_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Chemistry_2nd_Paper_Chapter_05_Economic_Chemistry_Dagano.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Higher Mathematics 1st Paper",
+        "subject_name_bn": "উচ্চতর গণিত ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "Chapter 01: Matrices and Determinants",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_01_Matrices_and_Determinants.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_01_Matrices_and_Determinants.pdf"
+          },
+          {
+            "chapter_name": "Chapter 02: Vector",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_02_Vector.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_02_Vector.pdf"
+          },
+          {
+            "chapter_name": "Chapter 03: Straight Lines",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_03_Straight_Lines.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_03_Straight_Lines.pdf"
+          },
+          {
+            "chapter_name": "Chapter 04: The Circle",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_04_The_Circle.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_04_The_Circle.pdf"
+          },
+          {
+            "chapter_name": "Chapter 05: permutations and Combinations",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_05_permutations_and_Combinations.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_05_permutations_and_Combinations.pdf"
+          },
+          {
+            "chapter_name": "Chapter 06: Trigonometric Ratios",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_06_Trigonometric_Ratios.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_06_Trigonometric_Ratios.pdf"
+          },
+          {
+            "chapter_name": "Chapter 07: Trigonometric Ratios of Associated Angles",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_07_Trigonometric_Ratios_of_Associated_Angles.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_07_Trigonometric_Ratios_of_Associated_Angles.pdf"
+          },
+          {
+            "chapter_name": "Chapter 08: Functions and Graph of Functions",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_08_Functions_and_Graph_of_Functions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_08_Functions_and_Graph_of_Functions.pdf"
+          },
+          {
+            "chapter_name": "Chapter 09: Differentiation",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_09_Differentiation.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_09_Differentiation.pdf"
+          },
+          {
+            "chapter_name": "Chapter 10: Integration",
+            "file_name": "EV_Higher_Math_1st_Paper_Chapter_10_Integration.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Chapter_10_Integration.pdf"
+          },
+          {
+            "chapter_name": "Board Exam Questions",
+            "file_name": "EV_Higher_Math_1st_Paper_Board_Exam_Questions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Board_Exam_Questions.pdf"
+          },
+          {
+            "chapter_name": "Fun Math Brain Teasers",
+            "file_name": "EV_Higher_Math_1st_Paper_Fun_Math_Brain_Teasers.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Fun_Math_Brain_Teasers.pdf"
+          },
+          {
+            "chapter_name": "Necessary formulae At A Glance",
+            "file_name": "EV_Higher_Math_1st_Paper_Necessary_formulae_At_A_Glance.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_1st_Paper_Necessary_formulae_At_A_Glance.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Higher Mathematics 2nd Paper",
+        "subject_name_bn": "উচ্চতর গণিত ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "Chapter 01: Real Number and Inequalities",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_01_Real_Number_and_Inequalities.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_01_Real_Number_and_Inequalities.pdf"
+          },
+          {
+            "chapter_name": "Chapter 02: Linear Programming",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_02_Linear_Programming.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_02_Linear_Programming.pdf"
+          },
+          {
+            "chapter_name": "Chapter 03: Complete Numbers",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_03_Complete_Numbers.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_03_Complete_Numbers.pdf"
+          },
+          {
+            "chapter_name": "Chapter 04: Polynomials and Polynomial Equations",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_04_Polynomials_and_Polynomial_Equations.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_04_Polynomials_and_Polynomial_Equations.pdf"
+          },
+          {
+            "chapter_name": "Chapter 05: Binomial Expansions",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_05_Binomial_Expansions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_05_Binomial_Expansions.pdf"
+          },
+          {
+            "chapter_name": "Chapter 06: Conics",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_06_Conics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_06_Conics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 07: Inverse Trigonometric Functions and Trigonometric Equations",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_07_Inverse_Trigonometric_Functions_and_Trigonometric_Equations.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_07_Inverse_Trigonometric_Functions_and_Trigonometric_Equations.pdf"
+          },
+          {
+            "chapter_name": "Chapter 08: Statics",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_08_Statics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_08_Statics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 09: Motion of Praticles in a Plane",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_09_Motion_of_Praticles_in_a_Plane.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_09_Motion_of_Praticles_in_a_Plane.pdf"
+          },
+          {
+            "chapter_name": "Chapter 10: Measures of Dispersions and Probability",
+            "file_name": "EV_Higher_Math_2nd_Paper_Chapter_10_Measures_of_Dispersions_and_Probability.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Chapter_10_Measures_of_Dispersions_and_Probability.pdf"
+          },
+          {
+            "chapter_name": "Board Exam Questions 2nd Paper",
+            "file_name": "EV_Higher_Math_2nd_Paper_Board_Exam_Questions_2nd_Paper.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Board_Exam_Questions_2nd_Paper.pdf"
+          },
+          {
+            "chapter_name": "Fun Math- Brain Teasers",
+            "file_name": "EV_Higher_Math_2nd_Paper_Fun_Math_Brain_Teasers.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Higher_Math_2nd_Paper_Fun_Math_Brain_Teasers.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Physics 1st Paper",
+        "subject_name_bn": "পদার্থবিজ্ঞান ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "Chapter 01: Physics World and Measurement",
+            "file_name": "EV_Physics_1st_Paper_Chapter_01_Physics_World_and_Measurement.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_01_Physics_World_and_Measurement.pdf"
+          },
+          {
+            "chapter_name": "Chapter 02: Vector",
+            "file_name": "EV_Physics_1st_Paper_Chapter_02_Vector.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_02_Vector.pdf"
+          },
+          {
+            "chapter_name": "Chapter 03: Dynamics",
+            "file_name": "EV_Physics_1st_Paper_Chapter_03_Dynamics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_03_Dynamics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 04: Newtonian Mechanic",
+            "file_name": "EV_Physics_1st_Paper_Chapter_04_Newtonian_Mechanic.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_04_Newtonian_Mechanic.pdf"
+          },
+          {
+            "chapter_name": "Chapter 05: Work, Energy and Power",
+            "file_name": "EV_Physics_1st_Paper_Chapter_05_Work_Energy_and_Power.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_05_Work_Energy_and_Power.pdf"
+          },
+          {
+            "chapter_name": "Chapter 06: Gravitation and Gravtty",
+            "file_name": "EV_Physics_1st_Paper_Chapter_06_Gravitation_and_Gravtty.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_06_Gravitation_and_Gravtty.pdf"
+          },
+          {
+            "chapter_name": "Chapter 07: Structural Properties of Matter",
+            "file_name": "EV_Physics_1st_Paper_Chapter_07_Structural_Properties_of_Matter.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_07_Structural_Properties_of_Matter.pdf"
+          },
+          {
+            "chapter_name": "Chapter 08: periodic Motion",
+            "file_name": "EV_Physics_1st_Paper_Chapter_08_periodic_Motion.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_08_periodic_Motion.pdf"
+          },
+          {
+            "chapter_name": "Chapter 09: Wave",
+            "file_name": "EV_Physics_1st_Paper_Chapter_09_Wave.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_09_Wave.pdf"
+          },
+          {
+            "chapter_name": "Chapter 10: Ideal Gas and Kinetics of Gases",
+            "file_name": "EV_Physics_1st_Paper_Chapter_10_Ideal_Gas_and_Kinetics_of_Gases.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_10_Ideal_Gas_and_Kinetics_of_Gases.pdf"
+          },
+          {
+            "chapter_name": "Physics 1st Paper Board Questions",
+            "file_name": "EV_Physics_1st_Paper_Physics_1st_Paper_Board_Questions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Physics_1st_Paper_Board_Questions.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Physics 1st Paper (Dagano)",
+        "subject_name_bn": "পদার্থবিজ্ঞান ১ম পত্র (দাগানো)",
+        "chapters": [
+          {
+            "chapter_name": "Chapter 01: Physical World And Measurements",
+            "file_name": "EV_Physics_1st_Paper_Chapter_01_Physical_World_And_Measurements_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_01_Physical_World_And_Measurements_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 02: Vector",
+            "file_name": "EV_Physics_1st_Paper_Chapter_02_Vector_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_02_Vector_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 03: Dynamics",
+            "file_name": "EV_Physics_1st_Paper_Chapter_03_Dynamics_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_03_Dynamics_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 04: Newtonian Mechanics",
+            "file_name": "EV_Physics_1st_Paper_Chapter_04_Newtonian_Mechanics_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_04_Newtonian_Mechanics_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 05: Work, Energy And Power",
+            "file_name": "EV_Physics_1st_Paper_Chapter_05_Work_Energy_And_Power_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_05_Work_Energy_And_Power_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 06: Gravitation And Gravity",
+            "file_name": "EV_Physics_1st_Paper_Chapter_06_Gravitation_And_Gravity_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_06_Gravitation_And_Gravity_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 07: Structural Properties Of Matter",
+            "file_name": "EV_Physics_1st_Paper_Chapter_07_Structural_Properties_Of_Matter_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_07_Structural_Properties_Of_Matter_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 08: Periodic Motion",
+            "file_name": "EV_Physics_1st_Paper_Chapter_08_Periodic_Motion_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_08_Periodic_Motion_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 09: Wave",
+            "file_name": "EV_Physics_1st_Paper_Chapter_09_Wave_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_09_Wave_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 10: Ideal Gas And Kinetic Energy",
+            "file_name": "EV_Physics_1st_Paper_Chapter_10_Ideal_Gas_And_Kinetic_Energy_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_1st_Paper_Chapter_10_Ideal_Gas_And_Kinetic_Energy_Dagano.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Physics 2nd Paper",
+        "subject_name_bn": "পদার্থবিজ্ঞান ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "Chapter 01: Thermodynamic",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_01_Thermodynamic.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_01_Thermodynamic.pdf"
+          },
+          {
+            "chapter_name": "Chapter 02: Electrostatics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_02_Electrostatics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_02_Electrostatics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 03: Current Electricity",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_03_Current_Electricity.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_03_Current_Electricity.pdf"
+          },
+          {
+            "chapter_name": "Chapter 04: Magnetic Effect of Current Electricity & Magnetism",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_04_Magnetic_Effect_of_Current_Electricity_Magnetism.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_04_Magnetic_Effect_of_Current_Electricity_Magnetism.pdf"
+          },
+          {
+            "chapter_name": "Chapter 05: Electromagnet Induction and Alternating Current",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_05_Electromagnet_Induction_and_Alternating_Current.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_05_Electromagnet_Induction_and_Alternating_Current.pdf"
+          },
+          {
+            "chapter_name": "Chapter 06: Geometrical Optics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_06_Geometrical_Optics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_06_Geometrical_Optics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 07: Physical Optics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_07_Physical_Optics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_07_Physical_Optics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 08: Beginning of MODERN Physics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_08_Beginning_of_MODERN_Physics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_08_Beginning_of_MODERN_Physics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 09: Atomic Model & Nuclear Physics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_09_Atomic_Model_Nuclear_Physics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_09_Atomic_Model_Nuclear_Physics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 10: Semiconductor and Electronics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_10_Semiconductor_and_Electronics.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_10_Semiconductor_and_Electronics.pdf"
+          },
+          {
+            "chapter_name": "Chapter 11: Astronomy",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_11_Astronomy.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_11_Astronomy.pdf"
+          },
+          {
+            "chapter_name": "Board Question",
+            "file_name": "EV_Physics_2nd_Paper_Board_Question.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Board_Question.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Physics 2nd Paper (Dagano)",
+        "subject_name_bn": "পদার্থবিজ্ঞান ২য় পত্র (দাগানো)",
+        "chapters": [
+          {
+            "chapter_name": "Chapter 01: Thermodynamics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_01_Thermodynamics_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_01_Thermodynamics_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 02: Electrostatic",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_02_Electrostatic_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_02_Electrostatic_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 03: Current Electricity",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_03_Current_Electricity_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_03_Current_Electricity_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 04: Magnetic Effects Of Current And Magnetism",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_04_Magnetic_Effects_Of_Current_And_Magnetism_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_04_Magnetic_Effects_Of_Current_And_Magnetism_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 05: Electromagnetic Induction And Alternative Current",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_05_Electromagnetic_Induction_And_Alternative_Current_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_05_Electromagnetic_Induction_And_Alternative_Current_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 06: Geometrical Optica",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_06_Geometrical_Optica_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_06_Geometrical_Optica_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 07: Physical Optics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_07_Physical_Optics_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_07_Physical_Optics_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 08: Introduction Of Modern Physics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_08_Introduction_Of_Modern_Physics_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_08_Introduction_Of_Modern_Physics_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 09: Atomic Model And Nuclear Physics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_09_Atomic_Model_And_Nuclear_Physics_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_09_Atomic_Model_And_Nuclear_Physics_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 10: Semiconductor And Electronics",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_10_Semiconductor_And_Electronics_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_10_Semiconductor_And_Electronics_Dagano.pdf"
+          },
+          {
+            "chapter_name": "Chapter 11: Astronomy",
+            "file_name": "EV_Physics_2nd_Paper_Chapter_11_Astronomy_Dagano.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCEVBooks/EV_Physics_2nd_Paper_Chapter_11_Astronomy_Dagano.pdf"
+          }
+        ]
+      }
+    ]
+  }
+]
