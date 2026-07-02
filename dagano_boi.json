@@ -1,0 +1,1398 @@
+[
+  {
+    "class_id": "hsc_dagano_boi",
+    "class_name_bn": "এইচএসসি দাগানো বই",
+    "subjects": [
+      {
+        "subject_name_bn": "জীববিজ্ঞান দ্বিতীয় পত্র",
+        "teachers": [
+          {
+            "teacher_name": "আজমল স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. প্রাণীর পরিচিতি - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. পরিপাক ও শোষণ - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. রক্ত ও সংবহন - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. শ্বসন ও শ্বাসক্রিয়া - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. বর্জ্য ও নিষ্কাশন - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. চলন ও অঙ্গচালনা - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. সমন্বয় ও নিয়ন্ত্রণ - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. মানব জীবনের ধারাবাহিকতা - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. মানবদেহের প্রতিরক্ষা - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জিনতত্ত্ব ও বিবর্তন - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch11_Dagano.pdf"
+              },
+              {
+                "chapter_name": "12. প্রাণীর আচরণ - দাগানো বই",
+                "file_name": "Bio_2nd_Azmol_Sir_Ch12_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Azmol_Sir_Ch12_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "আলীম স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. প্রাণীর পরিচিতি - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. পরিপাক ও শোষণ - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. রক্ত ও সংবহন - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. শ্বসন ও শ্বাসক্রিয়া - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. বর্জ্য ও নিষ্কাশন - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. চলন ও অঙ্গচালনা - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. সমন্বয় ও নিয়ন্ত্রণ - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. মানব জীবনের ধারাবাহিকতা - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. মানবদেহের প্রতিরক্ষা - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জিনতত্ত্ব ও বিবর্তন - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch11_Dagano.pdf"
+              },
+              {
+                "chapter_name": "12. প্রাণীর আচরণ - দাগানো বই",
+                "file_name": "Bio_2nd_Alim_Sir_Ch12_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Alim_Sir_Ch12_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "মাজেদা ম্যাম",
+            "chapters": [
+              {
+                "chapter_name": "01. প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. প্রাণীর পরিচিতি - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. পরিপাক ও শোষণ - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. রক্ত ও সংবহন - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. শ্বসন ও শ্বাসক্রিয়া - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. বর্জ্য ও নিষ্কাশন - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. চলন ও অঙ্গচালনা - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. সমন্বয় ও নিয়ন্ত্রণ - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. মানব জীবনের ধারাবাহিকতা - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. মানবদেহের প্রতিরক্ষা - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জিনতত্ত্ব ও বিবর্তন - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch11_Dagano.pdf"
+              },
+              {
+                "chapter_name": "12. প্রাণীর আচরণ - দাগানো বই",
+                "file_name": "Bio_2nd_Majeda_Mam_Ch12_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Majeda_Mam_Ch12_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "উদ্ভাস-উন্মেষ",
+            "chapters": [
+              {
+                "chapter_name": "01. প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. প্রাণীর পরিচিতি",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. পরিপাক ও শোষণ",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. রক্ত ও সংবহন",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. শ্বসন ও শ্বাসক্রিয়া",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. বর্জ্য ও নিষ্কাশন",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. চলন ও অঙ্গচালনা",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. সমন্বয় ও নিয়ন্ত্রণ",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. মানব জীবনের ধারাবাহিকতা",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. মানবদেহের প্রতিরক্ষা",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জিনতত্ত্ব ও বিবর্তন",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch11_Dagano.pdf"
+              },
+              {
+                "chapter_name": "12. প্রাণীর আচরণ",
+                "file_name": "Bio_2nd_Udvash_Unmesh_Ch12_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_2nd_Udvash_Unmesh_Ch12_Dagano.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subject_name_bn": "জীববিজ্ঞান প্রথম পত্র",
+        "teachers": [
+          {
+            "teacher_name": "আজমল স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. কোষ ও এর গঠন - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. কোষ বিভাজন - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. কোষ রসায়ন - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. অণুজীব - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. শৈবাল ও ছত্রাক - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. ব্রায়োফাইটা ও টেরিডোফাইটা - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. নগ্নবীজী ও আবৃতবীজী উদ্ভিদ - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. টিসু ও টিস্যুতন্ত্র - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. উদ্ভিদ শারীরতত্ত্ব - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. উদ্ভিদ প্রজনন - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জীবপ্রযুক্তি - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch11_Dagano.pdf"
+              },
+              {
+                "chapter_name": "12. জীবের পরিবেশ - দাগানো বই",
+                "file_name": "Bio_1st_Azmol_Sir_Ch12_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azmol_Sir_Ch12_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "আজিবুর স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. কোষ ও এর গঠন - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. কোষ বিভাজন - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. কোষ রসায়ন - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. অণুজীব - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. শৈবাল ও ছত্রাক - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. ব্রায়োফাইটা ও টেরিডোফাইটা - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. নগ্নবীজী ও আবৃতবীজী উদ্ভিদ - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. টিসু ও টিস্যুতন্ত্র - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. উদ্ভিদ শারীরতত্ত্ব - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. উদ্ভিদ প্রজনন - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জীবপ্রযুক্তি - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch11_Dagano.pdf"
+              },
+              {
+                "chapter_name": "12. জীবের পরিবেশ - দাগানো বই",
+                "file_name": "Bio_1st_Azibur_Sir_Ch12_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Azibur_Sir_Ch12_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "আলীম স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. কোষ ও এর গঠন - দাগানো বই",
+                "file_name": "Bio_1st_Alim_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Alim_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. অণুজীব - দাগানো বই",
+                "file_name": "Bio_1st_Alim_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Alim_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. উদ্ভিদ প্রজনন - দাগানো বই",
+                "file_name": "Bio_1st_Alim_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Alim_Sir_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জীবপ্রযুক্তি - দাগানো বই",
+                "file_name": "Bio_1st_Alim_Sir_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Alim_Sir_Ch11_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "হাসান স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. কোষ ও এর গঠন - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. কোষ বিভাজন - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. কোষ রসায়ন - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. অণুজীব - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. শৈবাল ও ছত্রাক - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. ব্রায়োফাইটা ও টেরিডোফাইটা - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. নগ্নবীজী ও আবৃতবীজী উদ্ভিদ - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. টিসু ও টিস্যুতন্ত্র - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. উদ্ভিদ শারীরতত্ত্ব - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. উদ্ভিদ প্রজনন - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জীবপ্রযুক্তি - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch11_Dagano.pdf"
+              },
+              {
+                "chapter_name": "12. জীবের পরিবেশ - দাগানো বই",
+                "file_name": "Bio_1st_Hasan_Sir_Ch12_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Hasan_Sir_Ch12_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "উদ্ভাস-উন্মেষ",
+            "chapters": [
+              {
+                "chapter_name": "01. কোষ ও এর গঠন",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. কোষ বিভাজন",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. কোষ রসায়ন",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. অণুজীব",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. শৈবাল ও ছত্রাক",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. ব্রায়োফাইটা ও টেরিডোফাইটা",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. নগ্নবীজী ও আবৃতবীজী উদ্ভিদ",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. টিসু ও টিস্যুতন্ত্র",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. উদ্ভিদ শারীরতত্ত্ব",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. উদ্ভিদ প্রজনন",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জীবপ্রযুক্তি",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch11_Dagano.pdf"
+              },
+              {
+                "chapter_name": "12. জীবের পরিবেশ",
+                "file_name": "Bio_1st_Udvash_Unmesh_Ch12_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Bio_1st_Udvash_Unmesh_Ch12_Dagano.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subject_name_bn": "পদার্থবিজ্ঞান দ্বিতীয় পত্র",
+        "teachers": [
+          {
+            "teacher_name": "ইসহাক স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. তাপগতিবিদ্যা - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch01_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch01_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. স্থির তড়িৎ - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch02_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch02_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. স্থির তড়িৎ - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. চল তড়িৎ - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch03_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch03_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "03. চল তড়িৎ - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch04_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch04_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. তড়িৎ চৌম্বক আবেশ ও পরিবর্তী প্রবাহ - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch05_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch05_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. তড়িৎ চৌম্বক আবেশ ও পরিবর্তী প্রবাহ - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. জ্যামিতিক আলোকবিজ্ঞান - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch06_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch06_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "06. জ্যামিতিক আলোকবিজ্ঞান - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. ভৌত আলোকবিজ্ঞান - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch07_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch07_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "07. ভৌত আলোকবিজ্ঞান - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. আধুনিক পদার্থবিজ্ঞানের সূচনা - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch08_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch08_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "08. আধুনিক পদার্থবিজ্ঞানের সূচনা - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. পরমাণুর মডেল এবং নিউক্লিয়ার পদার্থবিজ্ঞান - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch09_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch09_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "09. পরমাণুর মডেল এবং নিউক্লিয়ার পদার্থবিজ্ঞান - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. সেমিকন্ডাক্টর ও ইলেকট্রনিকস - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch10_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch10_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "10. সেমিকন্ডাক্টর ও ইলেকট্রনিকস - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জ্যোতির্বিজ্ঞান - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch11_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch11_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "11. জ্যোতির্বিজ্ঞান - দাগানো বই",
+                "file_name": "Phy_2nd_Ishaq_Sir_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Ishaq_Sir_Ch11_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "তপন স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. তাপগতিবিদ্যা - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch01_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch01_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. স্থির তড়িৎ - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch02_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch02_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. স্থির তড়িৎ - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. চল তড়িৎ - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch03_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch03_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "03. চল তড়িৎ - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch04_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch04_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. তড়িৎ চৌম্বক আবেশ ও পরিবর্তী প্রবাহ - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch05_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch05_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. তড়িৎ চৌম্বক আবেশ ও পরিবর্তী প্রবাহ - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. জ্যামিতিক আলোকবিজ্ঞান - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch06_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch06_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "06. জ্যামিতিক আলোকবিজ্ঞান - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. ভৌত আলোকবিজ্ঞান - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch07_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch07_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "07. ভৌত আলোকবিজ্ঞান - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. আধুনিক পদার্থবিজ্ঞানের সূচনা - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch08_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch08_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "08. আধুনিক পদার্থবিজ্ঞানের সূচনা - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. পরমাণুর মডেল এবং নিউক্লিয়ার পদার্থবিজ্ঞান - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch09_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch09_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "09. পরমাণুর মডেল এবং নিউক্লিয়ার পদার্থবিজ্ঞান - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. সেমিকন্ডাক্টর ও ইলেকট্রনিকস - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch10_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch10_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "10. সেমিকন্ডাক্টর ও ইলেকট্রনিকস - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জ্যোতির্বিজ্ঞান - অনুশীলনী সলভ",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch11_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch11_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "11. জ্যোতির্বিজ্ঞান - দাগানো বই",
+                "file_name": "Phy_2nd_Tapon_Sir_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Tapon_Sir_Ch11_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "উদ্ভাস-উন্মেষ",
+            "chapters": [
+              {
+                "chapter_name": "01. তাপগতিবিদ্যা",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. স্থির তড়িৎ",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. চল তড়িৎ",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. তড়িৎ চৌম্বক আবেশ ও পরিবর্তী প্রবাহ",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. জ্যামিতিক আলোকবিজ্ঞান",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. ভৌত আলোকবিজ্ঞান",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. আধুনিক পদার্থবিজ্ঞানের সূচনা",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. পরমাণুর মডেল এবং নিউক্লিয়ার পদার্থবিজ্ঞান",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. সেমিকন্ডাক্টর ও ইলেকট্রনিকস",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch10_Dagano.pdf"
+              },
+              {
+                "chapter_name": "11. জ্যোতির্বিজ্ঞান",
+                "file_name": "Phy_2nd_Udvash_Unmesh_Ch11_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_2nd_Udvash_Unmesh_Ch11_Dagano.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subject_name_bn": "পদার্থবিজ্ঞান প্রথম পত্র",
+        "teachers": [
+          {
+            "teacher_name": "ইসহাক স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. ভৌতজগৎ ও পরিমাপ - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch01_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch01_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "01. ভৌতজগৎ ও পরিমাপ - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. ভেক্টর - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch02_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch02_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. ভেক্টর - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. গতিবিদ্যা - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch03_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch03_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "03. গতিবিদ্যা - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. নিউটনীয় বলবিদ্যা - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch04_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch04_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "04. নিউটনীয় বলবিদ্যা - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. কাজ - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch05_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch05_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. কাজ - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. মহাকর্ষ ও অভিকর্ষ - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch06_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch06_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "06. মহাকর্ষ ও অভিকর্ষ - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. পদার্থের গাঠনিক ধর্ম - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch07_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch07_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "07. পদার্থের গাঠনিক ধর্ম - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. পর্যাবৃত্তি গতি - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch08_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch08_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "08. পর্যাবৃত্তি গতি - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. তরঙ্গ - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch09_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch09_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "09. তরঙ্গ - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch10_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch10_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "10. আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব - দাগানো বই",
+                "file_name": "Phy_1st_Ishaq_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Ishaq_Sir_Ch10_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "তপন স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. ভৌতজগৎ ও পরিমাপ - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch01_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch01_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "01. ভৌতজগৎ ও পরিমাপ - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. ভেক্টর - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch02_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch02_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. ভেক্টর - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. গতিবিদ্যা - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch03_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch03_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "03. গতিবিদ্যা - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. নিউটনীয় বলবিদ্যা - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch04_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch04_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "04. নিউটনীয় বলবিদ্যা - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. কাজ - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch05_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch05_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. কাজ - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. মহাকর্ষ ও অভিকর্ষ - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch06_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch06_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "06. মহাকর্ষ ও অভিকর্ষ - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. পদার্থের গাঠনিক ধর্ম - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch07_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch07_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "07. পদার্থের গাঠনিক ধর্ম - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. পর্যাবৃত্তি গতি - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch08_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch08_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "08. পর্যাবৃত্তি গতি - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. তরঙ্গ - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch09_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch09_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "09. তরঙ্গ - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব - অনুশীলনী সলভ",
+                "file_name": "Phy_1st_Tapon_Sir_Ch10_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch10_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "10. আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব - দাগানো বই",
+                "file_name": "Phy_1st_Tapon_Sir_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Tapon_Sir_Ch10_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "উদ্ভাস-উন্মেষ",
+            "chapters": [
+              {
+                "chapter_name": "01. ভৌতজগৎ ও পরিমাপ",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. ভেক্টর",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. গতিবিদ্যা",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. নিউটনীয় বলবিদ্যা",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. কাজ",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch05_Dagano.pdf"
+              },
+              {
+                "chapter_name": "06. মহাকর্ষ ও অভিকর্ষ",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch06_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch06_Dagano.pdf"
+              },
+              {
+                "chapter_name": "07. পদার্থের গাঠনিক ধর্ম",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch07_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch07_Dagano.pdf"
+              },
+              {
+                "chapter_name": "08. পর্যাবৃত্তি গতি",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch08_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch08_Dagano.pdf"
+              },
+              {
+                "chapter_name": "09. তরঙ্গ",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch09_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch09_Dagano.pdf"
+              },
+              {
+                "chapter_name": "10. আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+                "file_name": "Phy_1st_Udvash_Unmesh_Ch10_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Phy_1st_Udvash_Unmesh_Ch10_Dagano.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subject_name_bn": "রসায়ন দ্বিতীয় পত্র",
+        "teachers": [
+          {
+            "teacher_name": "কবির স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. পরিবেশ রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch01_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch01_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "01. পরিবেশ রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. জৈব রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch02_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch02_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. জৈব রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. পরিমাণগত রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch03_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch03_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "03. পরিমাণগত রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch04_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch04_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. অর্থনৈতিক রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch05_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch05_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. অর্থনৈতিক রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Kabir_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Kabir_Sir_Ch05_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "হাজারী স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. পরিবেশ রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch01_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch01_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "01. পরিবেশ রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. জৈব রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch02_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch02_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. জৈব রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. পরিমাণগত রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch03_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch03_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "03. পরিমাণগত রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch04_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch04_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. অর্থনৈতিক রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch05_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch05_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. অর্থনৈতিক রসায়ন - দাগানো বই",
+                "file_name": "Chem_2nd_Hazari_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Hazari_Sir_Ch05_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "উদ্ভাস-উন্মেষ",
+            "chapters": [
+              {
+                "chapter_name": "01. পরিবেশ রসায়ন",
+                "file_name": "Chem_2nd_Udvash_Unmesh_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Udvash_Unmesh_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. জৈব রসায়ন",
+                "file_name": "Chem_2nd_Udvash_Unmesh_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Udvash_Unmesh_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. পরিমাণগত রসায়ন",
+                "file_name": "Chem_2nd_Udvash_Unmesh_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Udvash_Unmesh_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. তড়িৎ রসায়ন",
+                "file_name": "Chem_2nd_Udvash_Unmesh_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Udvash_Unmesh_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. অর্থনৈতিক রসায়ন",
+                "file_name": "Chem_2nd_Udvash_Unmesh_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_2nd_Udvash_Unmesh_Ch05_Dagano.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subject_name_bn": "রসায়ন প্রথম পত্র",
+        "teachers": [
+          {
+            "teacher_name": "কবির স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. ল্যাবরেটরির নিরাপদ ব্যবহার - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Kabir_Sir_Ch01_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch01_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "01. ল্যাবরেটরির নিরাপদ ব্যবহার - দাগানো বই",
+                "file_name": "Chem_1st_Kabir_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. গুণগত রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Kabir_Sir_Ch02_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch02_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. গুণগত রসায়ন - দাগানো বই",
+                "file_name": "Chem_1st_Kabir_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Kabir_Sir_Ch03_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch03_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "03. মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন - দাগানো বই",
+                "file_name": "Chem_1st_Kabir_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. রাসায়নিক পরিবর্তন - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Kabir_Sir_Ch04_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch04_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. কর্মমুখী রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Kabir_Sir_Ch05_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch05_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. কর্মমুখী রসায়ন - দাগানো বই",
+                "file_name": "Chem_1st_Kabir_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Kabir_Sir_Ch05_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "হাজারী স্যার",
+            "chapters": [
+              {
+                "chapter_name": "01. ল্যাবরেটরির নিরাপদ ব্যবহার - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Hazari_Sir_Ch01_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch01_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "01. ল্যাবরেটরির নিরাপদ ব্যবহার - দাগানো বই",
+                "file_name": "Chem_1st_Hazari_Sir_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. গুণগত রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Hazari_Sir_Ch02_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch02_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "02. গুণগত রসায়ন - দাগানো বই",
+                "file_name": "Chem_1st_Hazari_Sir_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Hazari_Sir_Ch03_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch03_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "03. মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন - দাগানো বই",
+                "file_name": "Chem_1st_Hazari_Sir_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. রাসায়নিক পরিবর্তন - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Hazari_Sir_Ch04_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch04_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. কর্মমুখী রসায়ন - অনুশীলনী সলভ",
+                "file_name": "Chem_1st_Hazari_Sir_Ch05_Onushiloni.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch05_Onushiloni.pdf"
+              },
+              {
+                "chapter_name": "05. কর্মমুখী রসায়ন - দাগানো বই",
+                "file_name": "Chem_1st_Hazari_Sir_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Hazari_Sir_Ch05_Dagano.pdf"
+              }
+            ]
+          },
+          {
+            "teacher_name": "উদ্ভাস-উন্মেষ",
+            "chapters": [
+              {
+                "chapter_name": "01. ল্যাবরেটরির নিরাপদ ব্যবহার",
+                "file_name": "Chem_1st_Udvash_Unmesh_Ch01_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Udvash_Unmesh_Ch01_Dagano.pdf"
+              },
+              {
+                "chapter_name": "02. গুণগত রসায়ন",
+                "file_name": "Chem_1st_Udvash_Unmesh_Ch02_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Udvash_Unmesh_Ch02_Dagano.pdf"
+              },
+              {
+                "chapter_name": "03. মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন",
+                "file_name": "Chem_1st_Udvash_Unmesh_Ch03_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Udvash_Unmesh_Ch03_Dagano.pdf"
+              },
+              {
+                "chapter_name": "04. রাসায়নিক পরিবর্তন",
+                "file_name": "Chem_1st_Udvash_Unmesh_Ch04_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Udvash_Unmesh_Ch04_Dagano.pdf"
+              },
+              {
+                "chapter_name": "05. কর্মমুখী রসায়ন",
+                "file_name": "Chem_1st_Udvash_Unmesh_Ch05_Dagano.pdf",
+                "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCDaganoBoi/Chem_1st_Udvash_Unmesh_Ch05_Dagano.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
