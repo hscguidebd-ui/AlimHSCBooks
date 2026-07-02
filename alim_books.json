@@ -1,0 +1,960 @@
+[
+  {
+    "class_id": "alim_books",
+    "class_name_bn": "আলিম বই",
+    "subjects": [
+      {
+        "subject_name_en": "Quran Mazid",
+        "subject_name_bn": "কুরআন মাজিদ",
+        "chapters": [
+          {
+            "chapter_name": "সূরা আন-নিসা আয়াত ১-৩৮",
+            "file_name": "Quran_Mazid_01_Surah_An_Nisa_Ayat_1_38.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_01_Surah_An_Nisa_Ayat_1_38.pdf"
+          },
+          {
+            "chapter_name": "সূরা আন-নিসা আয়াত ৪৩-১১৫",
+            "file_name": "Quran_Mazid_02_Surah_An_Nisa_Ayat_43_115.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_02_Surah_An_Nisa_Ayat_43_115.pdf"
+          },
+          {
+            "chapter_name": "সূরা আন-নিসা আয়াত ১২৭-১৭৬",
+            "file_name": "Quran_Mazid_03_Surah_An_Nisa_Ayat_127_176.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_03_Surah_An_Nisa_Ayat_127_176.pdf"
+          },
+          {
+            "chapter_name": "সূরা আল-মায়িদাহ আয়াত ১-৪১",
+            "file_name": "Quran_Mazid_04_Surah_Al_Maeda_Ayat_1_41.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_04_Surah_Al_Maeda_Ayat_1_41.pdf"
+          },
+          {
+            "chapter_name": "সূরা আল-মায়িদাহ আয়াত ৫১-১১৫",
+            "file_name": "Quran_Mazid_05_Surah_Al_Maeda_Ayat_51_115.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_05_Surah_Al_Maeda_Ayat_51_115.pdf"
+          },
+          {
+            "chapter_name": "সূরা আল-আনআম আয়াত ১-১৪৭",
+            "file_name": "Quran_Mazid_06_Surah_Al_Anayam_Ayat_no_1_150.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_06_Surah_Al_Anayam_Ayat_no_1_150.pdf"
+          },
+          {
+            "chapter_name": "সূরা আল-আনআম আয়াত ১৫১-১৬৫",
+            "file_name": "Quran_Mazid_07_Surah_Al_Anayam_Ayat_no_151_165.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_07_Surah_Al_Anayam_Ayat_no_151_165.pdf"
+          },
+          {
+            "chapter_name": "সূরা আল-আরাফ",
+            "file_name": "Quran_Mazid_08_Surah_Al_Araf.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_08_Surah_Al_Araf.pdf"
+          },
+          {
+            "chapter_name": "সূরা আল-আনফাল",
+            "file_name": "Quran_Mazid_09_Surah_Al_Anfal.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_09_Surah_Al_Anfal.pdf"
+          },
+          {
+            "chapter_name": "সূরা আত-তাওবাহ",
+            "file_name": "Quran_Mazid_10_Surah_At_Tawbah.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_10_Surah_At_Tawbah.pdf"
+          },
+          {
+            "chapter_name": "শানে নুযূল ও নামকরণ",
+            "file_name": "Quran_Mazid_11_Sane_nuzol_o_Name_koron.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Quran_Mazid_11_Sane_nuzol_o_Name_koron.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Hadith",
+        "subject_name_bn": "হাদিস শরীফ",
+        "chapters": [
+          {
+            "chapter_name": "গ্রন্থের ভূমিকা ও ঈমান পর্ব",
+            "file_name": "Hadith_01_Khutbatul_and_Kitabul_Iman.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Hadith_01_Khutbatul_and_Kitabul_Iman.pdf"
+          },
+          {
+            "chapter_name": "ওয়াসওয়াসা (কুমন্ত্রণা) সম্পর্কে",
+            "file_name": "Hadith_02_Moner_Dada.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Hadith_02_Moner_Dada.pdf"
+          },
+          {
+            "chapter_name": "ইলম (জ্ঞান) পর্ব",
+            "file_name": "Hadith_03_Kitabul_Ilm.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Hadith_03_Kitabul_Ilm.pdf"
+          },
+          {
+            "chapter_name": "পবিত্রতা পর্ব",
+            "file_name": "Hadith_04_Kitabut_Taharah.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Hadith_04_Kitabut_Taharah.pdf"
+          },
+          {
+            "chapter_name": "অযুর সুন্নত - ইস্তিহাজা",
+            "file_name": "Hadith_05_Ojur_Sunnah.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Hadith_05_Ojur_Sunnah.pdf"
+          },
+          {
+            "chapter_name": "নামায পর্ব - আযান",
+            "file_name": "Hadith_06_Kitabus_Salat.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Hadith_06_Kitabus_Salat.pdf"
+          },
+          {
+            "chapter_name": "আযান এর ফজিলত - ঈদের নামায",
+            "file_name": "Hadith_07_Azaner_Mahattho.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Hadith_07_Azaner_Mahattho.pdf"
+          },
+          {
+            "chapter_name": "উসুলুল হাদিস অংশ ও মডেল টেস্ট",
+            "file_name": "Hadith_08_Usulul_Hadith_and_Model_Test.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Hadith_08_Usulul_Hadith_and_Model_Test.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Al Fiqh 1st Part",
+        "subject_name_bn": "আল ফিকহ ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "হজ পর্ব",
+            "file_name": "Al_Fiqh_1st_Part_01_Kitabul_Hajj.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_1st_Part_01_Kitabul_Hajj.pdf"
+          },
+          {
+            "chapter_name": "বিবাহ পর্ব",
+            "file_name": "Al_Fiqh_1st_Part_02_Kitabun_Nikah.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_1st_Part_02_Kitabun_Nikah.pdf"
+          },
+          {
+            "chapter_name": "তালাক পর্ব",
+            "file_name": "Al_Fiqh_1st_Part_03_Kitabut_Talaq.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_1st_Part_03_Kitabut_Talaq.pdf"
+          },
+          {
+            "chapter_name": "জিহাদ পর্ব",
+            "file_name": "Al_Fiqh_1st_Part_04_Kitabul_Jihad.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_1st_Part_04_Kitabul_Jihad.pdf"
+          },
+          {
+            "chapter_name": "শিকার পর্ব",
+            "file_name": "Al_Fiqh_1st_Part_05_Kitabus_Said.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_1st_Part_05_Kitabus_Said.pdf"
+          },
+          {
+            "chapter_name": "যবেহ পর্ব",
+            "file_name": "Al_Fiqh_1st_Part_06_Kitabuz_Zabah.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_1st_Part_06_Kitabuz_Zabah.pdf"
+          },
+          {
+            "chapter_name": "কুরবানি পর্ব",
+            "file_name": "Al_Fiqh_1st_Part_07_Kitabul_Udhiyah.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_1st_Part_07_Kitabul_Udhiyah.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Al-Fiqh 2nd Part",
+        "subject_name_bn": "আল ফিকহ ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ভূমিকা - কিতাবের আলোচনা",
+            "file_name": "Al_Fiqh_2nd_Part_01_Bhumika_Kitaber_Alochona.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_2nd_Part_01_Bhumika_Kitaber_Alochona.pdf"
+          },
+          {
+            "chapter_name": "খাস (নির্দিষ্ট) আলোচনা",
+            "file_name": "Al_Fiqh_2nd_Part_02_Khas_Er_Alochona.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_2nd_Part_02_Khas_Er_Alochona.pdf"
+          },
+          {
+            "chapter_name": "আম এর আলোচনা",
+            "file_name": "Al_Fiqh_2nd_Part_03_Aam_Azimat_O_Rukhsat.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_2nd_Part_03_Aam_Azimat_O_Rukhsat.pdf"
+          },
+          {
+            "chapter_name": "ফরায়েজ (উত্তরাধিকার) পর্ব",
+            "file_name": "Al_Fiqh_2nd_Part_04_Ilmul_Faraiz.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_2nd_Part_04_Ilmul_Faraiz.pdf"
+          },
+          {
+            "chapter_name": "তাসহীহ পর্ব",
+            "file_name": "Al_Fiqh_2nd_Part_05_Bonton_Bishuddhokoron.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Al_Fiqh_2nd_Part_05_Bonton_Bishuddhokoron.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Arabic 1st Paper",
+        "subject_name_bn": "আরবি ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "১ম ইউনিট",
+            "file_name": "Arabic_1st_Paper_01_Unit_1.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_01_Unit_1.pdf"
+          },
+          {
+            "chapter_name": "২য় ইউনিট",
+            "file_name": "Arabic_1st_Paper_02_Unit_2.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_02_Unit_2.pdf"
+          },
+          {
+            "chapter_name": "৩য় ইউনিট",
+            "file_name": "Arabic_1st_Paper_03_Unit_3.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_03_Unit_3.pdf"
+          },
+          {
+            "chapter_name": "৪র্থ ইউনিট",
+            "file_name": "Arabic_1st_Paper_04_Unit_4.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_04_Unit_4.pdf"
+          },
+          {
+            "chapter_name": "৫ম ইউনিট",
+            "file_name": "Arabic_1st_Paper_05_Unit_5.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_05_Unit_5.pdf"
+          },
+          {
+            "chapter_name": "৬ষ্ঠ ইউনিট",
+            "file_name": "Arabic_1st_Paper_06_Unit_6.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_06_Unit_6.pdf"
+          },
+          {
+            "chapter_name": "৭ম ইউনিট",
+            "file_name": "Arabic_1st_Paper_07_Unit_7.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_07_Unit_7.pdf"
+          },
+          {
+            "chapter_name": "৮ম ইউনিট",
+            "file_name": "Arabic_1st_Paper_08_Unit_8.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_08_Unit_8.pdf"
+          },
+          {
+            "chapter_name": "৯ম ইউনিট",
+            "file_name": "Arabic_1st_Paper_09_Unit_9.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_09_Unit_9.pdf"
+          },
+          {
+            "chapter_name": "১০ম ইউনিট",
+            "file_name": "Arabic_1st_Paper_10_Unit_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_10_Unit_10.pdf"
+          },
+          {
+            "chapter_name": "অপঠিত মূলপাঠ অংশ",
+            "file_name": "Arabic_1st_Paper_11_Unseen_Lesson.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_11_Unseen_Lesson.pdf"
+          },
+          {
+            "chapter_name": "বিগত সালের প্রশ্ন",
+            "file_name": "Arabic_1st_Paper_12_Previous_Question.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_1st_Paper_12_Previous_Question.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Arabic 2nd pepar",
+        "subject_name_bn": "আরবি ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "নাহু অংশ",
+            "file_name": "Arabic_2nd_pepar_01_Nahu_Ongsho.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_2nd_pepar_01_Nahu_Ongsho.pdf"
+          },
+          {
+            "chapter_name": "সরফ অংশ",
+            "file_name": "Arabic_2nd_pepar_02_Sarf_Ongsho.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_2nd_pepar_02_Sarf_Ongsho.pdf"
+          },
+          {
+            "chapter_name": "কাওয়াইদ যাচাই",
+            "file_name": "Arabic_2nd_pepar_03_Qawaid_Jachai.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_2nd_pepar_03_Qawaid_Jachai.pdf"
+          },
+          {
+            "chapter_name": "অনুবাদ",
+            "file_name": "Arabic_2nd_pepar_04_Onubad.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_2nd_pepar_04_Onubad.pdf"
+          },
+          {
+            "chapter_name": "দরখাস্ত ও পত্র এবং রচনা অংশ",
+            "file_name": "Arabic_2nd_pepar_05_Composition.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Arabic_2nd_pepar_05_Composition.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Balagat Mantik",
+        "subject_name_bn": "বালাগাত ও মানতিক",
+        "chapters": [
+          {
+            "chapter_name": "বালাগাত প্রশ্ন ১-১০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_01_Balagat_Questions_1_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_01_Balagat_Questions_1_10.pdf"
+          },
+          {
+            "chapter_name": "বালাগাত প্রশ্ন ১১-২০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_02_Balagat_Questions_11_20.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_02_Balagat_Questions_11_20.pdf"
+          },
+          {
+            "chapter_name": "বালাগাত প্রশ্ন ২১-৩০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_03_Balagat_Questions_21_30.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_03_Balagat_Questions_21_30.pdf"
+          },
+          {
+            "chapter_name": "বালাগাত প্রশ্ন ৩১-৪০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_04_Balagat_Questions_31_40.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_04_Balagat_Questions_31_40.pdf"
+          },
+          {
+            "chapter_name": "বালাগাত প্রশ্ন ৪১-৫০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_05_Balagat_Questions_41_50.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_05_Balagat_Questions_41_50.pdf"
+          },
+          {
+            "chapter_name": "বালাগাত প্রশ্ন ৫১-৬৬ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_06_Balagat_Questions_51_66.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_06_Balagat_Questions_51_66.pdf"
+          },
+          {
+            "chapter_name": "মানতিক প্রশ্ন ১-১০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_07_Mantik_Questions_1_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_07_Mantik_Questions_1_10.pdf"
+          },
+          {
+            "chapter_name": "মানতিক প্রশ্ন ১১-২০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_08_Mantik_Questions_11_20.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_08_Mantik_Questions_11_20.pdf"
+          },
+          {
+            "chapter_name": "মানতিক প্রশ্ন ২১-৩০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_09_Mantik_Questions_21_30.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_09_Mantik_Questions_21_30.pdf"
+          },
+          {
+            "chapter_name": "মানতিক প্রশ্ন ৩১-৪০ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_10_Mantik_Questions_31_40.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_10_Mantik_Questions_31_40.pdf"
+          },
+          {
+            "chapter_name": "মানতিক প্রশ্ন ৪১-৫৪ নং পর্যন্ত",
+            "file_name": "Balagat_Mantik_11_Mantik_Questions_41_54.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Balagat_Mantik_11_Mantik_Questions_41_54.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Islamic History",
+        "subject_name_bn": "ইসলামের ইতিহাস",
+        "chapters": [
+          {
+            "chapter_name": "প্রথম অধ্যায়: আইয়ামে জাহেলিয়া",
+            "file_name": "Islamic_History_01_Aiyame_Jaheliya.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Islamic_History_01_Aiyame_Jaheliya.pdf"
+          },
+          {
+            "chapter_name": "দ্বিতীয় অধ্যায়: সিরাতে রাসূল স.",
+            "file_name": "Islamic_History_02_Seerate_Rasul.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Islamic_History_02_Seerate_Rasul.pdf"
+          },
+          {
+            "chapter_name": "তৃতীয় অধ্যায়: খোলাফায়ে রাশেদীন",
+            "file_name": "Islamic_History_03_Khulafaye_Rashedin.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Islamic_History_03_Khulafaye_Rashedin.pdf"
+          },
+          {
+            "chapter_name": "প্রথম অধ্যায়: ভারতীয় উপমহাদেশে মুসলমানদের আগমন",
+            "file_name": "Islamic_History_04_Muslim_Agomon_O_Delhi_Sultanat.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Islamic_History_04_Muslim_Agomon_O_Delhi_Sultanat.pdf"
+          },
+          {
+            "chapter_name": "দ্বিতীয় অধ্যায়: ভারতীয় উপমহাদেশে মুঘল শাসন",
+            "file_name": "Islamic_History_05_Mughal_Shason.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Islamic_History_05_Mughal_Shason.pdf"
+          },
+          {
+            "chapter_name": "তৃতীয় অধ্যায়: উপমহাদেশে বিদেশি শাসন",
+            "file_name": "Islamic_History_06_Bideshi_Shason.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Islamic_History_06_Bideshi_Shason.pdf"
+          },
+          {
+            "chapter_name": "উত্তরসহ মডেল টেস্ট",
+            "file_name": "Islamic_History_07_Model_Test.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Islamic_History_07_Model_Test.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Bangla 2nd Paper",
+        "subject_name_bn": "বাংলা ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বাংলা উচ্চারণের নিয়ম",
+            "file_name": "Bangla_2nd_Paper_01_Uccharoner_Niyom.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_01_Uccharoner_Niyom.pdf"
+          },
+          {
+            "chapter_name": "বাংলা বানানের নিয়ম",
+            "file_name": "Bangla_2nd_Paper_02_Bananer_Niyom.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_02_Bananer_Niyom.pdf"
+          },
+          {
+            "chapter_name": "বাংলা ভাষার ব্যাকরণিক শব্দশ্রেণি পদ",
+            "file_name": "Bangla_2nd_Paper_03_Bakyaronik_Shobdoshreni.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_03_Bakyaronik_Shobdoshreni.pdf"
+          },
+          {
+            "chapter_name": "বাংলা শব্দগঠন ,উপসর্গ, প্রত্যয়, সমাস, শব্দ প্রকরণ",
+            "file_name": "Bangla_2nd_Paper_04_Shobdo_Gothon.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_04_Shobdo_Gothon.pdf"
+          },
+          {
+            "chapter_name": "বাক্যতত্ত্ব",
+            "file_name": "Bangla_2nd_Paper_05_Bakyototto.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_05_Bakyototto.pdf"
+          },
+          {
+            "chapter_name": "বাংলা ভাষার অপপ্রয়োগ ও শুদ্ধ প্রয়োগ",
+            "file_name": "Bangla_2nd_Paper_06_Opoproyog.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_06_Opoproyog.pdf"
+          },
+          {
+            "chapter_name": "দিনলিপি লিখন",
+            "file_name": "Bangla_2nd_Paper_07_Dinlipi.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_07_Dinlipi.pdf"
+          },
+          {
+            "chapter_name": "অভিজ্ঞতা বর্ণনা",
+            "file_name": "Bangla_2nd_Paper_08_Oviggota_Bornona.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_08_Oviggota_Bornona.pdf"
+          },
+          {
+            "chapter_name": "ভাষণ রচনা",
+            "file_name": "Bangla_2nd_Paper_09_Vashon.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_09_Vashon.pdf"
+          },
+          {
+            "chapter_name": "প্রতিবেদন রচনা",
+            "file_name": "Bangla_2nd_Paper_10_Protibedon.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_10_Protibedon.pdf"
+          },
+          {
+            "chapter_name": "বৈদ্যুতিন চিঠি ই-মেইল",
+            "file_name": "Bangla_2nd_Paper_11_Email.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_11_Email.pdf"
+          },
+          {
+            "chapter_name": "ক্ষুদে বার্তা এসএমএস",
+            "file_name": "Bangla_2nd_Paper_12_SMS.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_12_SMS.pdf"
+          },
+          {
+            "chapter_name": "পত্রলিখন",
+            "file_name": "Bangla_2nd_Paper_13_Potrolikhon.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_13_Potrolikhon.pdf"
+          },
+          {
+            "chapter_name": "অনুবাদ ইংরেজি থেকে বাংলা",
+            "file_name": "Bangla_2nd_Paper_14_Onubad.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_14_Onubad.pdf"
+          },
+          {
+            "chapter_name": "পারিভাষিক শব্দ",
+            "file_name": "Bangla_2nd_Paper_15_Paribhashik_Shobdo.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_15_Paribhashik_Shobdo.pdf"
+          },
+          {
+            "chapter_name": "সারাংশ ও ভাব সম্প্রসারণ",
+            "file_name": "Bangla_2nd_Paper_16_Sarangsho.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_16_Sarangsho.pdf"
+          },
+          {
+            "chapter_name": "সংলাপ রচনা",
+            "file_name": "Bangla_2nd_Paper_17_Songlap.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_17_Songlap.pdf"
+          },
+          {
+            "chapter_name": "প্রবন্ধ রচনা",
+            "file_name": "Bangla_2nd_Paper_18_Probondho.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/Bangla_2nd_Paper_18_Probondho.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "ICT",
+        "subject_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "chapters": [
+          {
+            "chapter_name": "তথ্য ও যোগাযোগ প্রযুক্তি: বিশ্ব ও বাংলাদেশ প্রেক্ষিত",
+            "file_name": "ICT_01_World_And_Bangladesh.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/ICT_01_World_And_Bangladesh.pdf"
+          },
+          {
+            "chapter_name": "কমিউনিকেশন সিস্টেমস ও নেটওয়ার্কিং",
+            "file_name": "ICT_02_Communication_Systems.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/ICT_02_Communication_Systems.pdf"
+          },
+          {
+            "chapter_name": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+            "file_name": "ICT_03_Number_Systems.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/ICT_03_Number_Systems.pdf"
+          },
+          {
+            "chapter_name": "ওয়েব ডিজাইন পরিচিতি এবং এইচটিএমএল",
+            "file_name": "ICT_04_Web_Design_HTML.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/ICT_04_Web_Design_HTML.pdf"
+          },
+          {
+            "chapter_name": "প্রোগ্রামিং ভাষা",
+            "file_name": "ICT_05_Programming_Language.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/ICT_05_Programming_Language.pdf"
+          },
+          {
+            "chapter_name": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+            "file_name": "ICT_06_ICT.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/ICT_06_ICT.pdf"
+          },
+          {
+            "chapter_name": "বিগত সালের প্রশ্নাবলি",
+            "file_name": "ICT_07_ICt_Previous_Questions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/ICT_07_ICt_Previous_Questions.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "English 1st Paper",
+        "subject_name_bn": "ইংরেজি ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "Lesson 01-The Unforgettable History",
+            "file_name": "English_1st_Paper_Reading_Unit_01_Lesson_01_The_Unforgettable_History.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_01_Lesson_01_The_Unforgettable_History.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02-Nelson Mandela",
+            "file_name": "English_1st_Paper_Reading_Unit_01_Lesson_02_Nelson_Mandela.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_01_Lesson_02_Nelson_Mandela.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03-Two Women",
+            "file_name": "English_1st_Paper_Reading_Unit_01_Lesson_03_Two_Women.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_01_Lesson_03_Two_Women.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01-Dreams",
+            "file_name": "English_1st_Paper_Reading_Unit_02_Lesson_01_Dreams.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_02_Lesson_01_Dreams.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02-Dream Poems",
+            "file_name": "English_1st_Paper_Reading_Unit_02_Lesson_02_Dream_Poems.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_02_Lesson_02_Dream_Poems.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03-I Have A Dream",
+            "file_name": "English_1st_Paper_Reading_Unit_02_Lesson_03_I_Have_A_Dream.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_02_Lesson_03_I_Have_A_Dream.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01-Manners Around the World",
+            "file_name": "English_1st_Paper_Reading_Unit_03_Lesson_01_Manners_Around_the_World.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_03_Lesson_01_Manners_Around_the_World.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02-Etiquette Netiquette",
+            "file_name": "English_1st_Paper_Reading_Unit_03_Lesson_02_Etiquette_Netiquette.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_03_Lesson_02_Etiquette_Netiquette.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03-Food Trends",
+            "file_name": "English_1st_Paper_Reading_Unit_03_Lesson_03_Food_Trends.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_03_Lesson_03_Food_Trends.pdf"
+          },
+          {
+            "chapter_name": "Lesson 04-Fitness",
+            "file_name": "English_1st_Paper_Reading_Unit_03_Lesson_04_Fitness.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_03_Lesson_04_Fitness.pdf"
+          },
+          {
+            "chapter_name": "Lesson 05-Spending",
+            "file_name": "English_1st_Paper_Reading_Unit_03_Lesson_05_Spending.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_03_Lesson_05_Spending.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01-The strom and stress of Adolesecence",
+            "file_name": "English_1st_Paper_Reading_Unit_04_Lesson_01_The_strom_and_stress_of_Adolesecence.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_04_Lesson_01_The_strom_and_stress_of_Adolesecence.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02- Adolescence And Some (Related) Problems in Bangladesh",
+            "file_name": "English_1st_Paper_Reading_Unit_04_Lesson_02_Adolescence_And_Some_Related_Problems_in_Bangladesh.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_04_Lesson_02_Adolescence_And_Some_Related_Problems_in_Bangladesh.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03-Why Does a Child Hate School",
+            "file_name": "English_1st_Paper_Reading_Unit_04_Lesson_03_Why_Does_a_Child_Hate_School.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_04_Lesson_03_Why_Does_a_Child_Hate_School.pdf"
+          },
+          {
+            "chapter_name": "Lesson 04-The Story of Shilpi",
+            "file_name": "English_1st_Paper_Reading_Unit_04_Lesson_04_The_Story_of_Shilpi.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_04_Lesson_04_The_Story_of_Shilpi.pdf"
+          },
+          {
+            "chapter_name": "Lesson 05-Say _No_ to Bullying",
+            "file_name": "English_1st_Paper_Reading_Unit_04_Lesson_05_Say_No_to_Bullying.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_04_Lesson_05_Say_No_to_Bullying.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01-Sheikh Kamal  Life of an Achiever",
+            "file_name": "English_1st_Paper_Reading_Unit_05_Lesson_01_Sheikh_Kamal_Life_of_an_Achiever.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_05_Lesson_01_Sheikh_Kamal_Life_of_an_Achiever.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02-Affectionate Lively and Always Smiling Sheikh Kamal",
+            "file_name": "English_1st_Paper_Reading_Unit_05_Lesson_02_Affectionate_Lively_and_Always_Smiling_Sheikh_Kamal.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_05_Lesson_02_Affectionate_Lively_and_Always_Smiling_Sheikh_Kamal.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03-Brojen Das On Conquering the English Channel",
+            "file_name": "English_1st_Paper_Reading_Unit_05_Lesson_03_Brojen_Das_On_Conquering_the_English_Channel.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_05_Lesson_03_Brojen_Das_On_Conquering_the_English_Channel.pdf"
+          },
+          {
+            "chapter_name": "Lesson 04-Scaling a Mountain Peak or Riding Your Dream",
+            "file_name": "English_1st_Paper_Reading_Unit_05_Lesson_04_Scaling_a_Mountain_Peak_or_Riding_Your_Dream.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_05_Lesson_04_Scaling_a_Mountain_Peak_or_Riding_Your_Dream.pdf"
+          },
+          {
+            "chapter_name": "Lesson 05-The Unbeaten Girls",
+            "file_name": "English_1st_Paper_Reading_Unit_05_Lesson_05_The_Unbeaten_Girls.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_05_Lesson_05_The_Unbeaten_Girls.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01-Family Relationship",
+            "file_name": "English_1st_Paper_Reading_Unit_06_Lesson_01_Family_Relationship.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_06_Lesson_01_Family_Relationship.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02- Love and Friendship",
+            "file_name": "English_1st_Paper_Reading_Unit_06_Lesson_02_Love_and_Friendship.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_06_Lesson_02_Love_and_Friendship.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03-A Mother in Mannville",
+            "file_name": "English_1st_Paper_Reading_Unit_06_Lesson_03_A_Mother_in_Mannville.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_06_Lesson_03_A_Mother_in_Mannville.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01- Are we Aware of These Rights-1",
+            "file_name": "English_1st_Paper_Reading_Unit_07_Lesson_01_Are_we_Aware_of_These_Rights.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_07_Lesson_01_Are_we_Aware_of_These_Rights.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02- Are we Aware of These Rights-11",
+            "file_name": "English_1st_Paper_Reading_Unit_07_Lesson_02_Are_we_Aware_of_These_Rights.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_07_Lesson_02_Are_we_Aware_of_These_Rights.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03- Rights to Health and Education",
+            "file_name": "English_1st_Paper_Reading_Unit_07_Lesson_03_Rights_to_Health_and_Education.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_07_Lesson_03_Rights_to_Health_and_Education.pdf"
+          },
+          {
+            "chapter_name": "Lesson 04- Amerigo, a Street Child",
+            "file_name": "English_1st_Paper_Reading_Unit_07_Lesson_04_Amerigo_a_Street_Child.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_07_Lesson_04_Amerigo_a_Street_Child.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01-Conflict  Causes and Types",
+            "file_name": "English_1st_Paper_Reading_Unit_08_Lesson_01_Conflict_Causes_and_Types.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_08_Lesson_01_Conflict_Causes_and_Types.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02- Cruelties of Conflict",
+            "file_name": "English_1st_Paper_Reading_Unit_08_Lesson_02_Cruelties_of_Conflict.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_08_Lesson_02_Cruelties_of_Conflict.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03- The Old Man at the Brudge by Ernest Hemingway",
+            "file_name": "English_1st_Paper_Reading_Unit_08_Lesson_03_The_Old_Man_at_the_Brudge_by_Ernest_Hemingway.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_08_Lesson_03_The_Old_Man_at_the_Brudge_by_Ernest_Hemingway.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01- Travelling to a Village in Bangladesh",
+            "file_name": "English_1st_Paper_Reading_Unit_09_Lesson_01_Travelling_to_a_Village_in_Bangladesh.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_09_Lesson_01_Travelling_to_a_Village_in_Bangladesh.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02- Arriving in the Orient",
+            "file_name": "English_1st_Paper_Reading_Unit_09_Lesson_02_Arriving_in_the_Orient.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_09_Lesson_02_Arriving_in_the_Orient.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03- Ecotourism",
+            "file_name": "English_1st_Paper_Reading_Unit_09_Lesson_03_Ecotourism.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_09_Lesson_03_Ecotourism.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01-Water, Water Everywhere",
+            "file_name": "English_1st_Paper_Reading_Unit_10_Lesson_01_Water_Water_Everywhere.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_10_Lesson_01_Water_Water_Everywhere.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02- The Hakaluki Haor",
+            "file_name": "English_1st_Paper_Reading_Unit_10_Lesson_02_The_Hakaluki_Haor.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_10_Lesson_02_The_Hakaluki_Haor.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03- The Lake lsle of Lnnisfree",
+            "file_name": "English_1st_Paper_Reading_Unit_10_Lesson_03_The_Lake_lsle_of_Lnnisfree.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_10_Lesson_03_The_Lake_lsle_of_Lnnisfree.pdf"
+          },
+          {
+            "chapter_name": "Lesson 04- A Minor Bird",
+            "file_name": "English_1st_Paper_Reading_Unit_10_Lesson_04_A_Minor_Bird.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_10_Lesson_04_A_Minor_Bird.pdf"
+          },
+          {
+            "chapter_name": "Lesson 05- The Tyger",
+            "file_name": "English_1st_Paper_Reading_Unit_10_Lesson_05_The_Tyger.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_10_Lesson_05_The_Tyger.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01- What is Beauty",
+            "file_name": "English_1st_Paper_Reading_Unit_11_Lesson_01_What_is_Beauty.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_11_Lesson_01_What_is_Beauty.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02- Folk Music",
+            "file_name": "English_1st_Paper_Reading_Unit_11_Lesson_02_Folk_Music.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_11_Lesson_02_Folk_Music.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03- Our Art and Craft",
+            "file_name": "English_1st_Paper_Reading_Unit_11_Lesson_03_Our_Art_and_Craft.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_11_Lesson_03_Our_Art_and_Craft.pdf"
+          },
+          {
+            "chapter_name": "Lesson 1-Education and Life",
+            "file_name": "English_1st_Paper_Reading_Unit_12_Lesson_1_Education_and_Life.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_12_Lesson_1_Education_and_Life.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02- The Parrot_s Tale",
+            "file_name": "English_1st_Paper_Reading_Unit_12_Lesson_02_The_Parrot_s_Tale.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_12_Lesson_02_The_Parrot_s_Tale.pdf"
+          },
+          {
+            "chapter_name": "Lesson 03- Civic Engagement",
+            "file_name": "English_1st_Paper_Reading_Unit_12_Lesson_03_Civic_Engagement.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_12_Lesson_03_Civic_Engagement.pdf"
+          },
+          {
+            "chapter_name": "Lesson 04- A Warror of Light",
+            "file_name": "English_1st_Paper_Reading_Unit_12_Lesson_04_A_Warror_of_Light.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Unit_12_Lesson_04_A_Warror_of_Light.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01  Information Transfer",
+            "file_name": "English_1st_Paper_Reading_Test_Information_Transfer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Test_Information_Transfer.pdf"
+          },
+          {
+            "chapter_name": "Lesson 02  Flow Chart",
+            "file_name": "English_1st_Paper_Reading_Test_Lesson_02_Flow_Chart.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Test_Lesson_02_Flow_Chart.pdf"
+          },
+          {
+            "chapter_name": "Lesson 01  Writing Summary of the Text",
+            "file_name": "English_1st_Paper_Writing_Summary_of_the_Text_Lesson_01_Writing_Summary_of_the_Text.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Summary_of_the_Text_Lesson_01_Writing_Summary_of_the_Text.pdf"
+          },
+          {
+            "chapter_name": "Writing Summary of the Poem",
+            "file_name": "English_1st_Paper_Writing_Summary_of_the_Text_Writing_Summary_of_the_Poem.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Summary_of_the_Text_Writing_Summary_of_the_Poem.pdf"
+          },
+          {
+            "chapter_name": "Cloze Test With Clues",
+            "file_name": "English_1st_Paper_Reading_Test_Cloze_Test_Cloze_Test_With_Clues.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Test_Cloze_Test_Cloze_Test_With_Clues.pdf"
+          },
+          {
+            "chapter_name": "Cloze Test Without Clues",
+            "file_name": "English_1st_Paper_Reading_Test_Cloze_Test_Without_Clues.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Test_Cloze_Test_Without_Clues.pdf"
+          },
+          {
+            "chapter_name": "Re-arranging",
+            "file_name": "English_1st_Paper_Reading_Test_Re_arranging.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Reading_Test_Re_arranging.pdf"
+          },
+          {
+            "chapter_name": "Writing Paragraph",
+            "file_name": "English_1st_Paper_Writing_Test_Writing_Paragraph.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Writing_Paragraph.pdf"
+          },
+          {
+            "chapter_name": "Completing Story",
+            "file_name": "English_1st_Paper_Writing_Test_Completing_Story.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Completing_Story.pdf"
+          },
+          {
+            "chapter_name": "E-mails",
+            "file_name": "English_1st_Paper_Writing_Test_E_mails.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_E_mails.pdf"
+          },
+          {
+            "chapter_name": "Informal E-mails",
+            "file_name": "English_1st_Paper_Writing_Test_Informal_E_mails.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Informal_E_mails.pdf"
+          },
+          {
+            "chapter_name": "Craphs_Charts",
+            "file_name": "English_1st_Paper_Writing_Test_Craphs_Charts.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Craphs_Charts.pdf"
+          },
+          {
+            "chapter_name": "Poems",
+            "file_name": "English_1st_Paper_Writing_Test_Poems.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Poems.pdf"
+          },
+          {
+            "chapter_name": "Appreciating Short Poems",
+            "file_name": "English_1st_Paper_Writing_Test_Appreciating_Short_Poems.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Appreciating_Short_Poems.pdf"
+          },
+          {
+            "chapter_name": "Bmeb প্রদত্ত Sample Question",
+            "file_name": "English_1st_Paper_Writing_Test_Bmeb_Sample_Question.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Bmeb_Sample_Question.pdf"
+          },
+          {
+            "chapter_name": "Special Model Test",
+            "file_name": "English_1st_Paper_Writing_Test_Special_Model_Test.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Special_Model_Test.pdf"
+          },
+          {
+            "chapter_name": "HSC Board Questions",
+            "file_name": "English_1st_Paper_Writing_Test_HSC_Board_Questions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_HSC_Board_Questions.pdf"
+          },
+          {
+            "chapter_name": "Alim  Board Questions",
+            "file_name": "English_1st_Paper_Writing_Test_Alim_Board_Questions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_1st_Paper_Writing_Test_Alim_Board_Questions.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "English 2nd Paper",
+        "subject_name_bn": "ইংরেজি ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "Sentence Structure",
+            "file_name": "English_2nd_Paper_01_Sentence_Structure.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_01_Sentence_Structure.pdf"
+          },
+          {
+            "chapter_name": "Unit 01: Use of Articles",
+            "file_name": "English_2nd_Paper_02_Use_of_Article.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_02_Use_of_Article.pdf"
+          },
+          {
+            "chapter_name": "Unit 02: Prepositions",
+            "file_name": "English_2nd_Paper_03_Prepositions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_03_Prepositions.pdf"
+          },
+          {
+            "chapter_name": "Unit 03: Gap Filling with Clues",
+            "file_name": "English_2nd_Paper_04_Gap_Filling_with_Clues.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_04_Gap_Filling_with_Clues.pdf"
+          },
+          {
+            "chapter_name": "Unit 04: Completing Sentences",
+            "file_name": "English_2nd_Paper_05_Completing_Sentences.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_05_Completing_Sentences.pdf"
+          },
+          {
+            "chapter_name": "Unit 05: Use of Verbs",
+            "file_name": "English_2nd_Paper_06_Use_of_Verbs.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_06_Use_of_Verbs.pdf"
+          },
+          {
+            "chapter_name": "Unit 06: Changing Sentences",
+            "file_name": "English_2nd_Paper_07_Changing_Sentences.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_07_Changing_Sentences.pdf"
+          },
+          {
+            "chapter_name": "Unit 07: Narrative Style",
+            "file_name": "English_2nd_Paper_08_Narrative_Style.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_08_Narrative_Style.pdf"
+          },
+          {
+            "chapter_name": "Unit 08: Pronoun Agreement",
+            "file_name": "English_2nd_Paper_09_Pronoun_Agreement.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_09_Pronoun_Agreement.pdf"
+          },
+          {
+            "chapter_name": "Unit 09: Use Of Modifiers",
+            "file_name": "English_2nd_Paper_10_Use_Of_Modifiers.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_10_Use_Of_Modifiers.pdf"
+          },
+          {
+            "chapter_name": "Unit 10: Use Of Sentence Connectors",
+            "file_name": "English_2nd_Paper_11_Use_Of_Sentence_Connectors.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_11_Use_Of_Sentence_Connectors.pdf"
+          },
+          {
+            "chapter_name": "Unit 11: Use Of Synonym and Antonym",
+            "file_name": "English_2nd_Paper_12_Use_Of_Synonym_and_Antonym.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_12_Use_Of_Synonym_and_Antonym.pdf"
+          },
+          {
+            "chapter_name": "Unit 12: Punctuation",
+            "file_name": "English_2nd_Paper_13_Punctuation.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_13_Punctuation.pdf"
+          },
+          {
+            "chapter_name": "Unit 01: Formal Letter E-mail",
+            "file_name": "English_2nd_Paper_14_Part_B_Composition_Formal_Letter_E_mail.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_14_Part_B_Composition_Formal_Letter_E_mail.pdf"
+          },
+          {
+            "chapter_name": "Unit 02: Report Writing (For newspapers)",
+            "file_name": "English_2nd_Paper_15_Part_B_Composition_Report_Writing_For_newspapers.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_15_Part_B_Composition_Report_Writing_For_newspapers.pdf"
+          },
+          {
+            "chapter_name": "Unit 03: Paragraphs",
+            "file_name": "English_2nd_Paper_16_Part_B_Composition_Paragraphs.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_16_Part_B_Composition_Paragraphs.pdf"
+          },
+          {
+            "chapter_name": "Unit 04: Free Writing",
+            "file_name": "English_2nd_Paper_17_Part_B_Composition_Free_Writing.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_17_Part_B_Composition_Free_Writing.pdf"
+          },
+          {
+            "chapter_name": "Special Model Test and Solution",
+            "file_name": "English_2nd_Paper_18_Model_Test_Sulutions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_18_Model_Test_Sulutions.pdf"
+          },
+          {
+            "chapter_name": "HSC Board Questions and Solutions",
+            "file_name": "English_2nd_Paper_19_HSC_Board_Questions_Solutions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_19_HSC_Board_Questions_Solutions.pdf"
+          },
+          {
+            "chapter_name": "Alim Board Questions and Solutions",
+            "file_name": "English_2nd_Paper_20_Alim_Board_Questions_Solutions.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_20_Alim_Board_Questions_Solutions.pdf"
+          },
+          {
+            "chapter_name": "Supplement For Admission Test",
+            "file_name": "English_2nd_Paper_21_Supplement_For_Admission_Test.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/AlimBooks/English_2nd_Paper_21_Supplement_For_Admission_Test.pdf"
+          }
+        ]
+      }
+    ]
+  }
+]
