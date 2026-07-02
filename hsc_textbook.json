@@ -1,0 +1,2730 @@
+[
+  {
+    "class_id": "hsc_textbook",
+    "class_name_bn": "এইচএসসি পাঠ্যবই",
+    "subjects": [
+      {
+        "subject_name_en": "Accounting 1st Paper",
+        "subject_name_bn": "হিসাববিজ্ঞান ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "হিসাববিজ্ঞান পরিচিতি",
+            "file_name": "Accounting_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "হিসাবের বিইসমূহ",
+            "file_name": "Accounting_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "ব্যাংক সমন্বয় বিবরণী",
+            "file_name": "Accounting_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "রেওয়ামিল",
+            "file_name": "Accounting_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "হিসাববিজ্ঞানের নীতিমালা",
+            "file_name": "Accounting_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "প্রাপ্য হিসাবসমূহের হিসাবরক্ষণ",
+            "file_name": "Accounting_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "কার্যপত্র",
+            "file_name": "Accounting_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "দৃশ্যমান ও অদৃশ্যমান সম্পদ",
+            "file_name": "Accounting_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "আর্থিক বিবরণী",
+            "file_name": "Accounting_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "একতরফা দাখিলা পদ্ধতি",
+            "file_name": "Accounting_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_1st_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Accounting 2nd Paper",
+        "subject_name_bn": "হিসাববিজ্ঞান ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "অব্যবসায়ী প্রতিষ্ঠানের হিসাব",
+            "file_name": "Accounting_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "অংশীদারি ব্যবসায়ের হিসাব",
+            "file_name": "Accounting_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "নগদ প্রবাহ বিবরণী",
+            "file_name": "Accounting_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "যৌথমুলধনী কোম্পানির মূলধন",
+            "file_name": "Accounting_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "যৌথমূলধনী কোম্পানির আর্থিক বিবরণী",
+            "file_name": "Accounting_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "আর্থিক বিবরণী বিশ্লেষণ",
+            "file_name": "Accounting_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "উৎপাদন ব্যয় হিসাব",
+            "file_name": "Accounting_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "মজুদ পণ্যের হিসাবরক্ষণ পদ্ধতি",
+            "file_name": "Accounting_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "ব্যয় ও ব্যয়ের শ্রেণিবিভাগ",
+            "file_name": "Accounting_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "ব্যবস্থাপনা হিসাববিজ্ঞান পরিচিতি",
+            "file_name": "Accounting_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Accounting_2nd_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Agriculture 1st Paper",
+        "subject_name_bn": "কৃষিশিক্ষা ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বাংলাদেশের কৃষি",
+            "file_name": "Agriculture_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ভূমি সম্পৃক্ত কৃষি প্রযুক্তি",
+            "file_name": "Agriculture_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "বিশেষ উৎপাদন সম্পৃক্ত কৃষি প্রযুক্তি",
+            "file_name": "Agriculture_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "কৃষি ও জলবায়ু",
+            "file_name": "Agriculture_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "মাঠ ও উদ্যান ফসল উৎপাদন",
+            "file_name": "Agriculture_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "ফল ও শাকসবজি প্রক্রিয়াজাতকরণ ও সংরক্ষণ",
+            "file_name": "Agriculture_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_1st_Paper_Ch_06.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Agriculture 2nd Paper",
+        "subject_name_bn": "কৃষিশিক্ষা ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "মৎস্য চাষ",
+            "file_name": "Agriculture_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "পোল্ট্রি পালন",
+            "file_name": "Agriculture_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "পশুপালন",
+            "file_name": "Agriculture_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বনায়ন",
+            "file_name": "Agriculture_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "কৃষি অর্থনীতি ও সমবায়",
+            "file_name": "Agriculture_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Agriculture_2nd_Paper_Ch_05.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Bangla 1st Paper",
+        "subject_name_bn": "বাংলা ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বাংলা সহপাঠ",
+            "file_name": "Bangla_1st_Paper_Bangla_Sahapath.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_1st_Paper_Bangla_Sahapath.pdf"
+          },
+          {
+            "chapter_name": "বাংলা সাহিত্যপাঠ",
+            "file_name": "Bangla_1st_Paper_Bangla_Sahityapath.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_1st_Paper_Bangla_Sahityapath.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Bangla 2nd Paper",
+        "subject_name_bn": "বাংলা ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "প্রশ্ন-০১ বাংলা উচ্চারণের নিয়ম",
+            "file_name": "Bangla_2nd_Paper_File_1.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_1.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-০২ বাংলা বানানের নিয়ম",
+            "file_name": "Bangla_2nd_Paper_File_2.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_2.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-০৩ ব্যাকরণিক শব্দশ্রেণি",
+            "file_name": "Bangla_2nd_Paper_File_3.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_3.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-০৪ উপসর্গ, প্রত্যয়, সমাস",
+            "file_name": "Bangla_2nd_Paper_File_4.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_4.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-০৫ বাক্যতত্ত্ব",
+            "file_name": "Bangla_2nd_Paper_File_5.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_5.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-০৬ বাংলা ভাষার অপপ্রয়োগ ও শুদ্ধ প্রয়োগ",
+            "file_name": "Bangla_2nd_Paper_File_6.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_6.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-০৭ পারিভাষিক শব্দ, অনুবাদ",
+            "file_name": "Bangla_2nd_Paper_File_7.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_7.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-০৮ দিনলিপি লিখন, অভিজ্ঞতা বর্ণন এবং ভাষণ, প্রতিবেদন",
+            "file_name": "Bangla_2nd_Paper_File_8.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_8.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-০৯ বৈদ্যুতিন চিঠি, খুদে বার্তা এবং পত্রলিখন, আবেদনপত্র",
+            "file_name": "Bangla_2nd_Paper_File_9.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_9.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-১০ সারাংশ, সারমর্ম, ভাব-সম্প্রসারণ",
+            "file_name": "Bangla_2nd_Paper_File_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_10.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-১১ সংলাপ রচনা, খুদেগল্প রচনা",
+            "file_name": "Bangla_2nd_Paper_File_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_11.pdf"
+          },
+          {
+            "chapter_name": "প্রশ্ন-১২ প্রবন্ধ-নিবন্ধ রচনা",
+            "file_name": "Bangla_2nd_Paper_File_12.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Bangla_2nd_Paper_File_12.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Biology 1st Paper",
+        "subject_name_bn": "জীববিজ্ঞান ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "কোষ ও এর গঠন",
+            "file_name": "Biology_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "কোষ বিভাজন",
+            "file_name": "Biology_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "কোষ রসায়ন",
+            "file_name": "Biology_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "অণুজীব",
+            "file_name": "Biology_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "শৈবাল ও ছত্রাক",
+            "file_name": "Biology_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "ব্রায়োফাইটা ও টেরিডোফাইটা",
+            "file_name": "Biology_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ",
+            "file_name": "Biology_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "টিস্যু ও টিস্যুতন্ত্র",
+            "file_name": "Biology_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "উদ্ভিদ শরীরতত্ত্ব",
+            "file_name": "Biology_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "উদ্ভিদ প্রজনন",
+            "file_name": "Biology_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_10.pdf"
+          },
+          {
+            "chapter_name": "জীবপ্রযুক্তি",
+            "file_name": "Biology_1st_Paper_Ch_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_11.pdf"
+          },
+          {
+            "chapter_name": "জীবের পরিবেশ, বিস্তার ও সংরক্ষণ",
+            "file_name": "Biology_1st_Paper_Ch_12.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_1st_Paper_Ch_12.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Biology 2nd Paper",
+        "subject_name_bn": "জীববিজ্ঞান ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+            "file_name": "Biology_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "প্রাণরি পরিচিতি",
+            "file_name": "Biology_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "মানব শরীরতত্ত্ব- পরিপাক ও শোষণ",
+            "file_name": "Biology_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "মানব শরীরতত্ত্ব- রক্ত ও সংবহন",
+            "file_name": "Biology_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "মানব শরীরতত্ত্ব- শ্বসন ও শ্বাসক্রিয়া",
+            "file_name": "Biology_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "মানব শরীরতত্ত্ব- বর্জ্য ও নিষ্কাশন",
+            "file_name": "Biology_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "মানব শরীরতত্ত্ব- চলন ও অঙ্গচালনা",
+            "file_name": "Biology_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "মানব শরীরতত্ত্ব- সমন্বয় ও নিয়ন্ত্রন",
+            "file_name": "Biology_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "মানব জীবনের ধারাবাহিকতা",
+            "file_name": "Biology_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "মানবদেহের প্রতিরক্ষা",
+            "file_name": "Biology_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_10.pdf"
+          },
+          {
+            "chapter_name": "জিন তত্ত্ব ও বিবর্তন",
+            "file_name": "Biology_2nd_Paper_Ch_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_11.pdf"
+          },
+          {
+            "chapter_name": "প্রাণীর আচরণ",
+            "file_name": "Biology_2nd_Paper_Ch_12.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Biology_2nd_Paper_Ch_12.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Business Organization and Management 1st Paper",
+        "subject_name_bn": "ব্যবসায় সংগঠন ও ব্যবস্থাপনা ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ব্যবসায়ের মৌলিক ধারণা",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ব্যবসায় পরিবেশ",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "একমালিকানা ব্যবসায়",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "অংশীদারি ব্যবসায়",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "যৌথ মূলধনী ব্যবসায়",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "সমবায় সমিতি",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "রাষ্ট্রীয় ব্যবসায়",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "ব্যবসায়ের আইনগত দিক",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "ব্যবসায়ে সহায়ক সেবা",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "ব্যবসায় উদ্যোগ",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_10.pdf"
+          },
+          {
+            "chapter_name": "ব্যবসায়ে তথ্য ও যোগাযোগ প্রযুক্তির ব্যবহার",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_11.pdf"
+          },
+          {
+            "chapter_name": "ব্যবসায় নৈতিক ও সামাজিক দায়বদ্ধতা",
+            "file_name": "Business_Organization_and_Management_1st_Paper_Ch_12.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_1st_Paper_Ch_12.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Business Organization and Management 2nd Paper",
+        "subject_name_bn": "ব্যবসায় সংগঠন ও ব্যবস্থাপনা ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ব্যবস্থাপনার ধারণা",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ব্যবস্থাপনার নীতি",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "পরিকল্পনা প্রণয়ন ও সিদ্ধান্ত গ্রহণ",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "সংগঠিতকরণ",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "কর্মীসংস্থান",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "নেতৃত্ব",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "প্রেষণা",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "যোগাযোগ",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "সমন্বয়সাধন",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "নিয়ন্ত্রণ",
+            "file_name": "Business_Organization_and_Management_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Business_Organization_and_Management_2nd_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Chemistry 1st Paper",
+        "subject_name_bn": "রসায়ন ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+            "file_name": "Chemistry_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "গুণগত রসায়ন",
+            "file_name": "Chemistry_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন",
+            "file_name": "Chemistry_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "রাসায়নিক পরিবর্তন",
+            "file_name": "Chemistry_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "কর্মমুখী রসায়ন",
+            "file_name": "Chemistry_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_1st_Paper_Ch_05.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Chemistry 2nd Paper",
+        "subject_name_bn": "রসায়ন ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "পরিবেশ রসায়ন",
+            "file_name": "Chemistry_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "জৈব রসায়ন",
+            "file_name": "Chemistry_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "পরিমাণগত রসায়ন",
+            "file_name": "Chemistry_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "তড়িৎ রসায়ন",
+            "file_name": "Chemistry_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "অর্থনৈতিক রসায়ন",
+            "file_name": "Chemistry_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Chemistry_2nd_Paper_Ch_05.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Civices 1st Paper",
+        "subject_name_bn": "পৌরনীতি ও সুশাসন ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "পৌরনীতি ও সুশাসন পরিচিতি",
+            "file_name": "Civices_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "সুশাসন",
+            "file_name": "Civices_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "মূল্যবোধ, আইন, স্বাধীনতা ও সাম্য",
+            "file_name": "Civices_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "ই-গভর্নেন্স ও সুশাসন",
+            "file_name": "Civices_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "নাগরিক অধিকার ও কর্তব্য এবং মানবাধিকার",
+            "file_name": "Civices_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "রাজনৈতিক দল, নেতৃত্ব ও সুশাসন",
+            "file_name": "Civices_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "সরকার কাঠামো ও সরকারের অঙ্গসমূহ",
+            "file_name": "Civices_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "জনমত ও রাজনৈতিক সংস্কৃতি",
+            "file_name": "Civices_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "জনসেবা ও আমলাতন্ত্র",
+            "file_name": "Civices_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "দেশপ্রেম ও জাতীয়তা",
+            "file_name": "Civices_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_1st_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Civices 2nd Paper",
+        "subject_name_bn": "পৌরনীতি ও সুশাসন ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ব্রিটিশ ভারতে প্রতিনিধিত্বশীল সরকারের বিকাশ",
+            "file_name": "Civices_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "পাকিস্তান থেকে বাংলাদেশ (১৯৪৭-১৯৭১)",
+            "file_name": "Civices_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "রাজনৈতিক ব্যক্তিত্ব- বাংলাদেশের স্বাধীনতা লাভ",
+            "file_name": "Civices_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের সংবিধান",
+            "file_name": "Civices_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের সরকার ও প্রশাসনিক কাঠামো",
+            "file_name": "Civices_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "স্থানীয় শাসন",
+            "file_name": "Civices_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "সাংবিধানিক প্রতিষ্ঠান",
+            "file_name": "Civices_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের নির্বাচন ব্যবস্থা",
+            "file_name": "Civices_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের বৈদেশিক নীতি",
+            "file_name": "Civices_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "নাগরিক সমস্যা ও আমাদের করণীয়",
+            "file_name": "Civices_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Civices_2nd_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Economics 1st Paper",
+        "subject_name_bn": "অর্থনীতি ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধান",
+            "file_name": "Economics_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ভোক্তা ও উৎপাদকের আচরণ",
+            "file_name": "Economics_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "উৎপাদন, উৎপাদন ব্যয় ও আয়",
+            "file_name": "Economics_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বাজার",
+            "file_name": "Economics_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "শ্রমবাজার",
+            "file_name": "Economics_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "মুলধন",
+            "file_name": "Economics_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "সংগঠন",
+            "file_name": "Economics_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "খাজনা",
+            "file_name": "Economics_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "সামগ্রিক আয় ও ব্যয়",
+            "file_name": "Economics_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "মুদ্রা ও ব্যাংক ব্যবস্থা",
+            "file_name": "Economics_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_1st_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Economics 2nd Paper",
+        "subject_name_bn": "অর্থনীতি ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বাংলাদেশের অর্থনীতি পরিচয়",
+            "file_name": "Economics_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের কৃষি",
+            "file_name": "Economics_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের শিল্প",
+            "file_name": "Economics_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "জনসংখ্যা, মানব সম্পদ এবং আত্মকর্মসংস্থান",
+            "file_name": "Economics_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "খাদ্য নিরাপত্তা",
+            "file_name": "Economics_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "অর্থায়ন",
+            "file_name": "Economics_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "মুদ্রাস্ফীতি",
+            "file_name": "Economics_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "আন্তর্জাতিক বাণিজ্য",
+            "file_name": "Economics_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "সরকারি অর্থব্যবস্থা",
+            "file_name": "Economics_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "উন্নয়ন ও পরিকল্পনা",
+            "file_name": "Economics_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Economics_2nd_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "English 1st Paper",
+        "subject_name_bn": "ইংরেজি ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "Analysing Graphs",
+            "file_name": "English_1st_Paper_Analysing_Graphs.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Analysing_Graphs.pdf"
+          },
+          {
+            "chapter_name": "Cloze Test with Clues",
+            "file_name": "English_1st_Paper_Cloze_Test_with_Clues.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Cloze_Test_with_Clues.pdf"
+          },
+          {
+            "chapter_name": "Cloze Test with Clues Board Question",
+            "file_name": "English_1st_Paper_Cloze_Test_with_Clues_Board_Question.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Cloze_Test_with_Clues_Board_Question.pdf"
+          },
+          {
+            "chapter_name": "Cloze Test without Clues",
+            "file_name": "English_1st_Paper_Cloze_Test_without_Clues.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Cloze_Test_without_Clues.pdf"
+          },
+          {
+            "chapter_name": "Cloze Test without Clues Board Question",
+            "file_name": "English_1st_Paper_Cloze_Test_without_Clues_Board_Question.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Cloze_Test_without_Clues_Board_Question.pdf"
+          },
+          {
+            "chapter_name": "Completing Story",
+            "file_name": "English_1st_Paper_Completing_Story.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Completing_Story.pdf"
+          },
+          {
+            "chapter_name": "English 1st Paper Model Question (Anupam)",
+            "file_name": "English_1st_Paper_English_1st_Paper_Model_Question__Anupam_.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_English_1st_Paper_Model_Question__Anupam_.pdf"
+          },
+          {
+            "chapter_name": "English 1st Paper Model Question (Nobodoot)",
+            "file_name": "English_1st_Paper_English_1st_Paper_Model_Question__Nobodoot_.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_English_1st_Paper_Model_Question__Nobodoot_.pdf"
+          },
+          {
+            "chapter_name": "English 1st Paper Model Question Solutions (Anupam)",
+            "file_name": "English_1st_Paper_English_1st_Paper_Model_Question_Solutions__Anupam_.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_English_1st_Paper_Model_Question_Solutions__Anupam_.pdf"
+          },
+          {
+            "chapter_name": "English 1st Paper Model Question Solutions (Nobodoot)",
+            "file_name": "English_1st_Paper_English_1st_Paper_Model_Question_Solutions__Nobodoot_.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_English_1st_Paper_Model_Question_Solutions__Nobodoot_.pdf"
+          },
+          {
+            "chapter_name": "English For Today by NCTB",
+            "file_name": "English_1st_Paper_English_For_Today_by_NCTB.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_English_For_Today_by_NCTB.pdf"
+          },
+          {
+            "chapter_name": "Model Question 1-5",
+            "file_name": "English_1st_Paper_Model_Question_1_5.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_1_5.pdf"
+          },
+          {
+            "chapter_name": "Model Question 10-18",
+            "file_name": "English_1st_Paper_Model_Question_10_18.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_10_18.pdf"
+          },
+          {
+            "chapter_name": "Model Question 11-15",
+            "file_name": "English_1st_Paper_Model_Question_11_15.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_11_15.pdf"
+          },
+          {
+            "chapter_name": "Model Question 16-19",
+            "file_name": "English_1st_Paper_Model_Question_16_19.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_16_19.pdf"
+          },
+          {
+            "chapter_name": "Model Question 19-27",
+            "file_name": "English_1st_Paper_Model_Question_19_27.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_19_27.pdf"
+          },
+          {
+            "chapter_name": "Model Question 20-24",
+            "file_name": "English_1st_Paper_Model_Question_20_24.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_20_24.pdf"
+          },
+          {
+            "chapter_name": "Model Question 25-30",
+            "file_name": "English_1st_Paper_Model_Question_25_30.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_25_30.pdf"
+          },
+          {
+            "chapter_name": "Model Question 28-40",
+            "file_name": "English_1st_Paper_Model_Question_28_40.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_28_40.pdf"
+          },
+          {
+            "chapter_name": "Model Question 31-35",
+            "file_name": "English_1st_Paper_Model_Question_31_35.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_31_35.pdf"
+          },
+          {
+            "chapter_name": "Model Question 36-40",
+            "file_name": "English_1st_Paper_Model_Question_36_40.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_36_40.pdf"
+          },
+          {
+            "chapter_name": "Model Question 41-45",
+            "file_name": "English_1st_Paper_Model_Question_41_45.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_41_45.pdf"
+          },
+          {
+            "chapter_name": "Model Question 41-53",
+            "file_name": "English_1st_Paper_Model_Question_41_53.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_41_53.pdf"
+          },
+          {
+            "chapter_name": "Model Question 46-50",
+            "file_name": "English_1st_Paper_Model_Question_46_50.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_46_50.pdf"
+          },
+          {
+            "chapter_name": "Model Question 51-55",
+            "file_name": "English_1st_Paper_Model_Question_51_55.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_51_55.pdf"
+          },
+          {
+            "chapter_name": "Model Question 54-59",
+            "file_name": "English_1st_Paper_Model_Question_54_59.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_54_59.pdf"
+          },
+          {
+            "chapter_name": "Model Question 56-60",
+            "file_name": "English_1st_Paper_Model_Question_56_60.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_56_60.pdf"
+          },
+          {
+            "chapter_name": "Model Question 6-10",
+            "file_name": "English_1st_Paper_Model_Question_6_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_6_10.pdf"
+          },
+          {
+            "chapter_name": "Model Question 60-70",
+            "file_name": "English_1st_Paper_Model_Question_60_70.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_60_70.pdf"
+          },
+          {
+            "chapter_name": "Model Question 61-65",
+            "file_name": "English_1st_Paper_Model_Question_61_65.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_61_65.pdf"
+          },
+          {
+            "chapter_name": "Model Question 66-70",
+            "file_name": "English_1st_Paper_Model_Question_66_70.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_66_70.pdf"
+          },
+          {
+            "chapter_name": "Model Question 71-74",
+            "file_name": "English_1st_Paper_Model_Question_71_74.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Question_71_74.pdf"
+          },
+          {
+            "chapter_name": "Model Test 1-10",
+            "file_name": "English_1st_Paper_Model_Test_1_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Test_1_10.pdf"
+          },
+          {
+            "chapter_name": "Model Test 1-13",
+            "file_name": "English_1st_Paper_Model_Test_1_13.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Test_1_13.pdf"
+          },
+          {
+            "chapter_name": "Model Test 11-20",
+            "file_name": "English_1st_Paper_Model_Test_11_20.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Test_11_20.pdf"
+          },
+          {
+            "chapter_name": "Model Test 14-30",
+            "file_name": "English_1st_Paper_Model_Test_14_30.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Test_14_30.pdf"
+          },
+          {
+            "chapter_name": "Model Test 21-30",
+            "file_name": "English_1st_Paper_Model_Test_21_30.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Model_Test_21_30.pdf"
+          },
+          {
+            "chapter_name": "Poems",
+            "file_name": "English_1st_Paper_Poems.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Poems.pdf"
+          },
+          {
+            "chapter_name": "Rearranging Sentences",
+            "file_name": "English_1st_Paper_Rearranging_Sentences.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Rearranging_Sentences.pdf"
+          },
+          {
+            "chapter_name": "Short Stories",
+            "file_name": "English_1st_Paper_Short_Stories.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Short_Stories.pdf"
+          },
+          {
+            "chapter_name": "Writing E-mail",
+            "file_name": "English_1st_Paper_Writing_E_mail.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Writing_E_mail.pdf"
+          },
+          {
+            "chapter_name": "Writing Letter",
+            "file_name": "English_1st_Paper_Writing_Letter.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Writing_Letter.pdf"
+          },
+          {
+            "chapter_name": "Writing Paragraph",
+            "file_name": "English_1st_Paper_Writing_Paragraph.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Writing_Paragraph.pdf"
+          },
+          {
+            "chapter_name": "Writing Summary",
+            "file_name": "English_1st_Paper_Writing_Summary.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_1st_Paper_Writing_Summary.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "English 2nd Paper",
+        "subject_name_bn": "ইংরেজি ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "English 2nd Paper Model Question (Nobodoot)",
+            "file_name": "English_2nd_Paper_English_2nd_Paper_Model_Question__Nobodoot_.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_English_2nd_Paper_Model_Question__Nobodoot_.pdf"
+          },
+          {
+            "chapter_name": "English 2nd Paper Model Question Solutions (Lecture)",
+            "file_name": "English_2nd_Paper_English_2nd_Paper_Model_Question_Solutions__Lecture_.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_English_2nd_Paper_Model_Question_Solutions__Lecture_.pdf"
+          },
+          {
+            "chapter_name": "English 2nd Paper Model Question Solutions (Nobodoot)",
+            "file_name": "English_2nd_Paper_English_2nd_Paper_Model_Question_Solutions__Nobodoot_.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_English_2nd_Paper_Model_Question_Solutions__Nobodoot_.pdf"
+          },
+          {
+            "chapter_name": "English 2nd Paper Model Questions (Lecture)",
+            "file_name": "English_2nd_Paper_English_2nd_Paper_Model_Questions__Lecture_.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_English_2nd_Paper_Model_Questions__Lecture_.pdf"
+          },
+          {
+            "chapter_name": "English 2nd Paper Question",
+            "file_name": "English_2nd_Paper_English_2nd_Paper_Question.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_English_2nd_Paper_Question.pdf"
+          },
+          {
+            "chapter_name": "English 2nd Paper Solution",
+            "file_name": "English_2nd_Paper_English_2nd_Paper_Solution.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_English_2nd_Paper_Solution.pdf"
+          },
+          {
+            "chapter_name": "Question No 01",
+            "file_name": "English_2nd_Paper_Question_No_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_01.pdf"
+          },
+          {
+            "chapter_name": "Question No 01 Answer",
+            "file_name": "English_2nd_Paper_Question_No_01_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_01_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 02",
+            "file_name": "English_2nd_Paper_Question_No_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_02.pdf"
+          },
+          {
+            "chapter_name": "Question No 02 Answer",
+            "file_name": "English_2nd_Paper_Question_No_02_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_02_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 03",
+            "file_name": "English_2nd_Paper_Question_No_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_03.pdf"
+          },
+          {
+            "chapter_name": "Question No 03 Answer",
+            "file_name": "English_2nd_Paper_Question_No_03_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_03_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 04 Answer",
+            "file_name": "English_2nd_Paper_Question_No_04_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_04_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 05",
+            "file_name": "English_2nd_Paper_Question_No_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_05.pdf"
+          },
+          {
+            "chapter_name": "Question No 05 Answer",
+            "file_name": "English_2nd_Paper_Question_No_05_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_05_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 06",
+            "file_name": "English_2nd_Paper_Question_No_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_06.pdf"
+          },
+          {
+            "chapter_name": "Question No 06 Answer",
+            "file_name": "English_2nd_Paper_Question_No_06_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_06_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 07",
+            "file_name": "English_2nd_Paper_Question_No_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_07.pdf"
+          },
+          {
+            "chapter_name": "Question No 07 Answer",
+            "file_name": "English_2nd_Paper_Question_No_07_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_07_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 08",
+            "file_name": "English_2nd_Paper_Question_No_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_08.pdf"
+          },
+          {
+            "chapter_name": "Question No 08 Answer",
+            "file_name": "English_2nd_Paper_Question_No_08_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_08_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 09",
+            "file_name": "English_2nd_Paper_Question_No_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_09.pdf"
+          },
+          {
+            "chapter_name": "Question No 09 Answer",
+            "file_name": "English_2nd_Paper_Question_No_09_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_09_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 10",
+            "file_name": "English_2nd_Paper_Question_No_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_10.pdf"
+          },
+          {
+            "chapter_name": "Question No 10 Answer",
+            "file_name": "English_2nd_Paper_Question_No_10_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_10_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 11",
+            "file_name": "English_2nd_Paper_Question_No_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_11.pdf"
+          },
+          {
+            "chapter_name": "Question No 11 Answer",
+            "file_name": "English_2nd_Paper_Question_No_11_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_11_Answer.pdf"
+          },
+          {
+            "chapter_name": "Question No 12",
+            "file_name": "English_2nd_Paper_Question_No_12.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_12.pdf"
+          },
+          {
+            "chapter_name": "Question No 12 Answer",
+            "file_name": "English_2nd_Paper_Question_No_12_Answer.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Question_No_12_Answer.pdf"
+          },
+          {
+            "chapter_name": "Writing Composition",
+            "file_name": "English_2nd_Paper_Writing_Composition.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Writing_Composition.pdf"
+          },
+          {
+            "chapter_name": "Writing Formal Letters",
+            "file_name": "English_2nd_Paper_Writing_Formal_Letters.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Writing_Formal_Letters.pdf"
+          },
+          {
+            "chapter_name": "Writing Paragraph",
+            "file_name": "English_2nd_Paper_Writing_Paragraph.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Writing_Paragraph.pdf"
+          },
+          {
+            "chapter_name": "Writing Report",
+            "file_name": "English_2nd_Paper_Writing_Report.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/English_2nd_Paper_Writing_Report.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Finance, Banking and Insurance 1st Paper",
+        "subject_name_bn": "ফিন্যান্স, ব্যাংকিং ও বিমা ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "অর্থায়নের সূচনা",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "আর্থিক বাজারের আইনগত দিকসমূহ",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "অর্থের সময় মূল্য",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "আর্থিক বিশ্লেষণ",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "স্বল্প ও মধ্যমেয়াদি অর্থায়ন",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "দীর্ঘমেয়াদি অর্থায়ন",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "মূলধন ব্যয়",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "মূলধন বাজেটিং ও বিনিয়োগ সিদ্ধান্ত",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "ঝুঁকি এবং মুনাফার হার",
+            "file_name": "Finance,_Banking_and_Insurance_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_1st_Paper_Ch_09.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Finance, Banking and Insurance 2nd Paper",
+        "subject_name_bn": "ফিন্যান্স, ব্যাংকিং ও বিমা ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ব্যাংক ব্যবস্থার প্রাথমিক ধারণা",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "কেন্দ্রীয় ব্যাক",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "বাণিজ্যিক ব্যাংক",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "ব্যাংক হিসাব",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "হস্তান্তরযোগ্য ঋণের দলিল",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "চেক, বিল অব এক্সচেঞ্জ ও প্রমিসরি নোট",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "ব্যাংক তহবিলের উৎস ও ব্যবহার",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "বৈদেশিক বিনিময় ও বৈদেশিক মুদ্রা",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "ইলেকট্রনিক ও আধুনিক ব্যাংকিং",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "বিমা সম্পর্কে মৌলিক ধারণা",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_10.pdf"
+          },
+          {
+            "chapter_name": "জীবন বিমা",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_11.pdf"
+          },
+          {
+            "chapter_name": "নৌ বিমা",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_12.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_12.pdf"
+          },
+          {
+            "chapter_name": "অগ্নি বিমা",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_13.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_13.pdf"
+          },
+          {
+            "chapter_name": "বিবিধ বিমা",
+            "file_name": "Finance,_Banking_and_Insurance_2nd_Paper_Ch_14.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Finance,_Banking_and_Insurance_2nd_Paper_Ch_14.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Geography 1st paper",
+        "subject_name_bn": "ভূগোল ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "প্রাকৃতিক ভূগোল",
+            "file_name": "Geography_1st_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "পৃথিবীর পঠন",
+            "file_name": "Geography_1st_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "ভূমিরূপ পরিবর্তন",
+            "file_name": "Geography_1st_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বায়ুমণ্ডল ও বায়ু দূষণ",
+            "file_name": "Geography_1st_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "জলবায়ুর উপাদান ও নিয়ামক",
+            "file_name": "Geography_1st_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "জলবায়ু অঞ্চল ও জলবায়ু পরিবর্তন",
+            "file_name": "Geography_1st_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "বারিমণ্ডল",
+            "file_name": "Geography_1st_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "সমুদ্রশ্রোত ও জোয়ার-ভাটা",
+            "file_name": "Geography_1st_paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "জীবনমণ্ডল",
+            "file_name": "Geography_1st_paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "ব্যবহারিক (মানচিত্র ও স্কেল)",
+            "file_name": "Geography_1st_paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_1st_paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Geography 2nd paper",
+        "subject_name_bn": "ভূগোল ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "মানব ভূগোল",
+            "file_name": "Geography_2nd_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "জনসংখ্যা",
+            "file_name": "Geography_2nd_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "বসতি",
+            "file_name": "Geography_2nd_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "কৃষি",
+            "file_name": "Geography_2nd_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "খনিজ ও শক্তি সম্পদ",
+            "file_name": "Geography_2nd_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "শিল্প",
+            "file_name": "Geography_2nd_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "পরিবহন ও যোগাযোগ",
+            "file_name": "Geography_2nd_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "বাণিজ্য",
+            "file_name": "Geography_2nd_paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "দূষণ ও দুর্যোগ",
+            "file_name": "Geography_2nd_paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "মানচিত্র অভিক্ষেপ",
+            "file_name": "Geography_2nd_paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Geography_2nd_paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Higher Math 1st Paper",
+        "subject_name_bn": "উচ্চতর গণিত ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ম্যাট্রিক্স ও নির্ণায়ক",
+            "file_name": "Higher_Math_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ভেক্টর",
+            "file_name": "Higher_Math_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "সরলরেখা",
+            "file_name": "Higher_Math_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বৃত্ত",
+            "file_name": "Higher_Math_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "বিন্যাস ও সমাবেশ",
+            "file_name": "Higher_Math_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "ত্রিকোণমিতিক অনুপাত",
+            "file_name": "Higher_Math_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "সংযুক্ত কোণের ক্রিকোণমিতিক অনুপাত",
+            "file_name": "Higher_Math_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "ফাংশন ও ফাংশনের লেখচিত্র",
+            "file_name": "Higher_Math_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "অন্তরীকরণ",
+            "file_name": "Higher_Math_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "যোগজীকরণ",
+            "file_name": "Higher_Math_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_1st_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Higher Math 2nd Paper",
+        "subject_name_bn": "উচ্চতর গণিত ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বাস্তব সংখ্যা ও অসমতা",
+            "file_name": "Higher_Math_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "যোগাশ্রয়ী প্রোগ্রাম",
+            "file_name": "Higher_Math_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "জটিল সংখ্যা",
+            "file_name": "Higher_Math_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বহুপদী ও বহুপদী সমীকরণ",
+            "file_name": "Higher_Math_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "দ্বিপদী বিস্তৃতি",
+            "file_name": "Higher_Math_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "কণিক",
+            "file_name": "Higher_Math_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "ত্রিকোণমিতিক ফাংশন",
+            "file_name": "Higher_Math_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "স্থিতিবিদ্যা",
+            "file_name": "Higher_Math_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "সমতলে বস্তুকণার গতি",
+            "file_name": "Higher_Math_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "বিস্তার পরিমাপ ও সম্ভাবনা",
+            "file_name": "Higher_Math_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Higher_Math_2nd_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "History 1st Paper",
+        "subject_name_bn": "ইতিহাস ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ভারতর্ষে ইউরোপীয়দের আগমন (ইংরেজ অধিপত্য প্রতিষ্ঠা)",
+            "file_name": "History_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ইংরেজ উপনিবেশিক শাসন (কোম্পানি আমল)",
+            "file_name": "History_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "ইংরেজ উপনিবেশিক শাসন (ব্রিটিশ আমল)",
+            "file_name": "History_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "পাকিস্তানি আমলে বাংলা (ভাষা আন্দোলন ও এর গতিপ্রকৃতি)",
+            "file_name": "History_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "পূর্ব বাংলায় স্বায়ত্তশাসন ও স্বাধিকার আন্দোলন",
+            "file_name": "History_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের স্বাধীনতা ঘোষণা ও মুক্তিযুদ্ধ",
+            "file_name": "History_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "মুক্তিযুদ্ধে বাংলাদেশ সরকারের (মুজিবনগর) কার্যক্রম",
+            "file_name": "History_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "মুক্তিযুদ্ধে প্রবাসী বাঙ্গালি ও বহির্বিশ্বে",
+            "file_name": "History_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_1st_Paper_Ch_08.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "History 2nd Paper",
+        "subject_name_bn": "ইতিহাস ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "শিল্পবিপ্লব",
+            "file_name": "History_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ফরাসি বিপ্লব",
+            "file_name": "History_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "প্রথম বিশ্বযুদ্ধ এবং ভার্সাই সন্ধি ও লীগ অব নেশনস",
+            "file_name": "History_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বলশেভিক বিপ্লব",
+            "file_name": "History_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "হিটলার ও মুসোলিনির উত্থান এবং দ্বিতীয় বিশ্বযুদ্ধ",
+            "file_name": "History_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "জাতিসংঘ ও বিশ্বশান্তি",
+            "file_name": "History_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "স্নায়ুযুদ্ধ- পুঁজিবাদ ও সমাজতান্ত্রিক বিশ্বের দ্বন্ধ",
+            "file_name": "History_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "স্নায়ুযুদ্ধ-পরবর্তী বিশ্ব",
+            "file_name": "History_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "বর্ণবাদবিরোধী আন্দোলন",
+            "file_name": "History_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/History_2nd_Paper_Ch_09.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Home Science 1st Paper",
+        "subject_name_bn": "গার্হস্থ্য বিজ্ঞান ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "গৃহ ব্যবস্থাপনা",
+            "file_name": "Home_Science_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "গৃহ ব্যবস্থাপনার ধাপ",
+            "file_name": "Home_Science_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "গৃহ সম্পদ ব্যবস্থাপনা",
+            "file_name": "Home_Science_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "সময় ও শক্তি ব্যবস্থাপনা",
+            "file_name": "Home_Science_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "সঞ্চয়, বিনিয়োগ ও ঋণ",
+            "file_name": "Home_Science_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "অবাসস্থান পরিকল্পনা",
+            "file_name": "Home_Science_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "গৃহ নির্মাণসামগ্রী ও আনুষঙ্গিক বিষয়",
+            "file_name": "Home_Science_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "আসবাবপত্র নির্বাচন,বিন্যাস ও গৃহসজ্জা",
+            "file_name": "Home_Science_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "গৃহ প্রাঙ্গণ, ছাদ ও বারান্দার ব্যবহার",
+            "file_name": "Home_Science_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "পরিবেশ সংরক্ষণ ও দুর্যোগ ব্যবস্থাপনা",
+            "file_name": "Home_Science_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_10.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের ঐতিহ্যবাহী বস্ত্র",
+            "file_name": "Home_Science_1st_Paper_Ch_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_11.pdf"
+          },
+          {
+            "chapter_name": "ফ্যাশন, স্টাইল ও ডিজাইন",
+            "file_name": "Home_Science_1st_Paper_Ch_12.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_12.pdf"
+          },
+          {
+            "chapter_name": "বস্ত্রে রং ও ছাপা",
+            "file_name": "Home_Science_1st_Paper_Ch_13.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_13.pdf"
+          },
+          {
+            "chapter_name": "পোশাকে শিল্পকলার নীতি ও উপাদান",
+            "file_name": "Home_Science_1st_Paper_Ch_14.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_14.pdf"
+          },
+          {
+            "chapter_name": "পোশাকের ছাঁট ও সেলাই",
+            "file_name": "Home_Science_1st_Paper_Ch_15.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_15.pdf"
+          },
+          {
+            "chapter_name": "বস্ত্রের দাগ অপসারণ ও সংস্করণ",
+            "file_name": "Home_Science_1st_Paper_Ch_16.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_1st_Paper_Ch_16.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Home Science 2nd Paper",
+        "subject_name_bn": "গার্হস্থ্য বিজ্ঞান ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বাংলাদেশের বর্তমান পরিবার কাঠামো",
+            "file_name": "Home_Science_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "প্রজননতন্ত্র, মাতৃগের্ভে শিশুর বৃদ্ধি ও পারিপার্শ্বিক প্রভাব",
+            "file_name": "Home_Science_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "গর্ভবতী মায়ের যত্ন ও নিরাপদ মাতৃত্ব",
+            "file_name": "Home_Science_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "নবজাতক, প্রসূতি মায়ের যত্ন ও শিশুর টিকা",
+            "file_name": "Home_Science_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "শিশুর ক্রমবিকাশ",
+            "file_name": "Home_Science_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "বিশেষ চাহিদাসম্পন্ন শিশু",
+            "file_name": "Home_Science_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "তারুণ্যের বিকাশ ও বিপর্যয় রোধ",
+            "file_name": "Home_Science_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "মানসিক স্বাস্থ্য ও প্রজনন স্বাস্থ্য",
+            "file_name": "Home_Science_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "খাদ্য ও খাদ্যের উপাদান",
+            "file_name": "Home_Science_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "পরিপাকতন্ত্র, পরিপাক ও শোষণ",
+            "file_name": "Home_Science_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_10.pdf"
+          },
+          {
+            "chapter_name": "শক্তি চাহিদা",
+            "file_name": "Home_Science_2nd_Paper_Ch_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_11.pdf"
+          },
+          {
+            "chapter_name": "মৌলিক খাদ্যগোষ্ঠী, সুষম খাদ্য ও মেনু পরিকল্পনা",
+            "file_name": "Home_Science_2nd_Paper_Ch_12.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_12.pdf"
+          },
+          {
+            "chapter_name": "রোগ ও পথ্য ব্যবস্থাপনা",
+            "file_name": "Home_Science_2nd_Paper_Ch_13.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_13.pdf"
+          },
+          {
+            "chapter_name": "খাদ্য সংরক্ষণ ও রন্ধন",
+            "file_name": "Home_Science_2nd_Paper_Ch_14.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_14.pdf"
+          },
+          {
+            "chapter_name": "জনস্বাস্থ্য সমস্যা",
+            "file_name": "Home_Science_2nd_Paper_Ch_15.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Home_Science_2nd_Paper_Ch_15.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "ICT",
+        "subject_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "chapters": [
+          {
+            "chapter_name": "EV ICT by NCTB",
+            "file_name": "ICT_EV_ICT_by_NCTB.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/ICT_EV_ICT_by_NCTB.pdf"
+          },
+          {
+            "chapter_name": "ICT by AkkharPatra",
+            "file_name": "ICT_ICT_by_AkkharPatra.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/ICT_ICT_by_AkkharPatra.pdf"
+          },
+          {
+            "chapter_name": "ICT by Mahbubur Rahman",
+            "file_name": "ICT_ICT_by_Mahbubur_Rahman.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/ICT_ICT_by_Mahbubur_Rahman.pdf"
+          },
+          {
+            "chapter_name": "ICT by NCTB",
+            "file_name": "ICT_ICT_by_NCTB.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/ICT_ICT_by_NCTB.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Islamic History and Culture 1st paper",
+        "subject_name_bn": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "প্রাক-ইসলামি আরব",
+            "file_name": "Islamic_History_and_Culture_1st_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_History_and_Culture_1st_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "হযরত মুহম্মদ (স.)",
+            "file_name": "Islamic_History_and_Culture_1st_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_History_and_Culture_1st_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "খুলাফায়ে রাশেদিন (৬৩২-৬৬১ খ্রি.)",
+            "file_name": "Islamic_History_and_Culture_1st_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_History_and_Culture_1st_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "উমাইয়া খিলাফত (৬৬১-৭৫০ খ্রি.)",
+            "file_name": "Islamic_History_and_Culture_1st_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_History_and_Culture_1st_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "আব্বাসীয় খিলাফত (৭৫০-১২৫৮ খ্রি.)",
+            "file_name": "Islamic_History_and_Culture_1st_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_History_and_Culture_1st_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "স্পেনে উমাইয়া শাসন (৭১১-১৪৯২ খ্রি.)",
+            "file_name": "Islamic_History_and_Culture_1st_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_History_and_Culture_1st_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "উত্তর আফ্রিকায় ফাতেমী খিলাফত (৯০৯-১১৭১ খ্রি.)",
+            "file_name": "Islamic_History_and_Culture_1st_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_History_and_Culture_1st_paper_Ch_07.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Islamic history and Cultute 2nd paper",
+        "subject_name_bn": "ইসলামের ইতিহাস ও সংস্কৃতি ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ভারতে মুসলিম শাসন প্রতিষ্ঠা",
+            "file_name": "Islamic_history_and_Cultute_2nd_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_history_and_Cultute_2nd_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "দিল্লি সালতানাত যুগ (১২০৬-১৫২৬ খ্রি.)",
+            "file_name": "Islamic_history_and_Cultute_2nd_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_history_and_Cultute_2nd_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "ভারতীয় উপমহাদেশে মুঘল শাসন",
+            "file_name": "Islamic_history_and_Cultute_2nd_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_history_and_Cultute_2nd_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বাংলায় কোম্পানি ও ঔপনিবেশিক শাসন",
+            "file_name": "Islamic_history_and_Cultute_2nd_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_history_and_Cultute_2nd_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "বাংলার ইতিহাস (পাকিস্তান আমল)",
+            "file_name": "Islamic_history_and_Cultute_2nd_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_history_and_Cultute_2nd_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "স্বাধীন সার্বভৌম বাংলাদেশের অভ্যুদয়",
+            "file_name": "Islamic_history_and_Cultute_2nd_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_history_and_Cultute_2nd_paper_Ch_06.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Islamic Studies 1st Paper",
+        "subject_name_bn": "ইসলাম শিক্ষা ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ইসলামি শিক্ষা ও সংস্কিৃতি",
+            "file_name": "Islamic_Studies_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ইসলাম ও ব্যক্তিজীবন",
+            "file_name": "Islamic_Studies_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "ইসলাম ও পারিবারিক জীবন",
+            "file_name": "Islamic_Studies_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "ইসলাম ও সমাজজীবন",
+            "file_name": "Islamic_Studies_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "ইসলামের অর্থব্যবস্থা",
+            "file_name": "Islamic_Studies_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "ইসলামি রাষ্ট্রব্যবস্থা",
+            "file_name": "Islamic_Studies_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "ইসলামের আন্তর্জাতিক ব্যবস্থা",
+            "file_name": "Islamic_Studies_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_1st_Paper_Ch_07.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Islamic Studies 2nd Paper",
+        "subject_name_bn": "ইসলাম শিক্ষা ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "আল-কুরআন",
+            "file_name": "Islamic_Studies_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "আল-হাদিস",
+            "file_name": "Islamic_Studies_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "আল-ইজমা",
+            "file_name": "Islamic_Studies_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "আল-কিয়াস",
+            "file_name": "Islamic_Studies_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "কিকহশাস্ত্র",
+            "file_name": "Islamic_Studies_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "মৌলিক ইবাদাত",
+            "file_name": "Islamic_Studies_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "তাসাউফ",
+            "file_name": "Islamic_Studies_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Islamic_Studies_2nd_Paper_Ch_07.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Logic 1st paper",
+        "subject_name_bn": "যুক্তিবিদ্যা ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "যুক্তিবিদ্যা পরিচিতি",
+            "file_name": "Logic_1st_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_1st_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "যুক্তিবিদ্যার প্রায়োগিক দিক",
+            "file_name": "Logic_1st_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_1st_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "যুক্তির উপাদান",
+            "file_name": "Logic_1st_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_1st_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বিধেয়ক",
+            "file_name": "Logic_1st_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_1st_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "অনুমান",
+            "file_name": "Logic_1st_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_1st_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "অবরোহ অনুমান",
+            "file_name": "Logic_1st_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_1st_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "আরোহ অনুমান ও আরোহ অনুমানের ভিত্তি",
+            "file_name": "Logic_1st_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_1st_paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "প্রতীকী যুক্তিবিদ্যা",
+            "file_name": "Logic_1st_paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_1st_paper_Ch_08.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Logic 2nd paper",
+        "subject_name_bn": "যুক্তিবিদ্যা ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "যৌক্তিক সংজ্ঞা",
+            "file_name": "Logic_2nd_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_2nd_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "যৌক্তিক বিভাগ",
+            "file_name": "Logic_2nd_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_2nd_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "আরোহের প্রকারভেদ",
+            "file_name": "Logic_2nd_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_2nd_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "প্রকল্প",
+            "file_name": "Logic_2nd_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_2nd_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "কার্যকারণ সম্পর্ক প্রমাণ পদ্ধতি",
+            "file_name": "Logic_2nd_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_2nd_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "ব্যাখ্যা",
+            "file_name": "Logic_2nd_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_2nd_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "শ্রেণিকরণ",
+            "file_name": "Logic_2nd_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_2nd_paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "সম্ভাবনা",
+            "file_name": "Logic_2nd_paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Logic_2nd_paper_Ch_08.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Physics 1st Paper",
+        "subject_name_bn": "পদার্থবিজ্ঞান ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "ভৌতজগৎ ও পরিমাপ",
+            "file_name": "Physics_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ভেক্টর",
+            "file_name": "Physics_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "গতিবিদ্যা",
+            "file_name": "Physics_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+            "file_name": "Physics_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+            "file_name": "Physics_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+            "file_name": "Physics_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+            "file_name": "Physics_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "পর্যাবৃত্ত গতি",
+            "file_name": "Physics_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "তরঙ্গ",
+            "file_name": "Physics_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+            "file_name": "Physics_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_1st_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Physics 2nd Paper",
+        "subject_name_bn": "পদার্থবিজ্ঞান ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "তাগিতিবিদ্যা",
+            "file_name": "Physics_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "স্থির তড়িৎ",
+            "file_name": "Physics_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "চল তড়িৎ",
+            "file_name": "Physics_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া",
+            "file_name": "Physics_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "তড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+            "file_name": "Physics_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "জ্যামিতিক আলোববিজ্ঞান",
+            "file_name": "Physics_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "ভৌত আলোকবিজ্ঞান",
+            "file_name": "Physics_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+            "file_name": "Physics_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "পরমাণুর মডেল ও নিউক্লিয়া",
+            "file_name": "Physics_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "সেকন্ডাকটর ও ইলেকট্রনিকস",
+            "file_name": "Physics_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_10.pdf"
+          },
+          {
+            "chapter_name": "জ্যাতির্বিজ্ঞান",
+            "file_name": "Physics_2nd_Paper_Ch_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Physics_2nd_Paper_Ch_11.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Production Management & Marketing 1st Paper",
+        "subject_name_bn": "উৎপাদন ব্যবস্থাপনা ও বিপণন ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "উৎপাদন",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "উৎপাদনের উপকরণ",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "উৎপাদনের মাত্রা",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "সামষ্টিক পর্যায় উৎপাদন",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "উৎপাদন ব্যবস্থাপনা",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "পণ্য ডিজাইন",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "মান ব্যবস্থাপনা",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "উৎপাদন ক্ষমতা",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "ব্যবসায়ের অবস্থান",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "লে-আইট বা বিন্যাস",
+            "file_name": "Production_Management_&_Marketing_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_1st_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Production Management & Marketing 2nd Paper",
+        "subject_name_bn": "উৎপাদন ব্যবস্থাপনা ও বিপণন ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বিপণন পরিচিতি",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "বিপণন ও পরিবেশ",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "বিপণন কার্যাবলী",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বাজার বিভক্তি করণ ও বিপণন মিশ্রণ",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "পণ্য ও পণ্যের মূল্য নির্ধারণ",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "পণ্য বন্টন প্রণালি",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "পাইকারি ব্যবসা ও খুচরা ব্যবসা",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "বিক্রয় প্রসার ও বিজ্ঞাপণ",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "ব্যক্তিক বিক্রয় ও বিক্রয়িকতা",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "বিপণনের সমসাময়িক বিষয়াবলি",
+            "file_name": "Production_Management_&_Marketing_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Production_Management_&_Marketing_2nd_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Psychology 1st paper",
+        "subject_name_bn": "মনোবিজ্ঞান ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "মনোবিজ্ঞান পরিচিতি",
+            "file_name": "Psychology_1st_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_1st_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "আচরণ ও আচরণের বিকাশ",
+            "file_name": "Psychology_1st_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_1st_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "আচরণের জৈবিক ভিত্তি",
+            "file_name": "Psychology_1st_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_1st_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "প্রেষণা ও আবেগ",
+            "file_name": "Psychology_1st_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_1st_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "শিক্ষণ ও স্মৃতি",
+            "file_name": "Psychology_1st_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_1st_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "সংবেদন ও প্রত্যক্ষণ",
+            "file_name": "Psychology_1st_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_1st_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "বয়ঃসন্ধিকাল ও মানসিক স্বাস্থ্য",
+            "file_name": "Psychology_1st_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_1st_paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "পরিসংখ্যান পরিচিতি",
+            "file_name": "Psychology_1st_paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_1st_paper_Ch_08.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Psychology 2nd paper",
+        "subject_name_bn": "মনোবিজ্ঞান ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বুদ্ধি",
+            "file_name": "Psychology_2nd_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_2nd_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "ব্যক্তিত্ব",
+            "file_name": "Psychology_2nd_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_2nd_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "মনোভাব",
+            "file_name": "Psychology_2nd_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_2nd_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "আচরণের উপর পরিবেশের প্রভাব",
+            "file_name": "Psychology_2nd_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_2nd_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "মানসিক চাপ এবং চাপ মোকাবেলা",
+            "file_name": "Psychology_2nd_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_2nd_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "মূল্যবোধ",
+            "file_name": "Psychology_2nd_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_2nd_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "মনোবিজ্ঞান গবেষণার পদ্ধতিসমূহ",
+            "file_name": "Psychology_2nd_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_2nd_paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "পরিসংখ্যান",
+            "file_name": "Psychology_2nd_paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Psychology_2nd_paper_Ch_08.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Social Work 1st paper",
+        "subject_name_bn": "সমাজকর্ম ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "সমাজকর্ম",
+            "file_name": "Social_Work_1st_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_1st_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "সমাজকর্ম পেশার ঐতিহাসিক প্রেক্ষাপট",
+            "file_name": "Social_Work_1st_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_1st_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "সমাজকর্মের মূল্যবোধ ও নীতিমালা",
+            "file_name": "Social_Work_1st_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_1st_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "সমাজকর্ম সম্পর্কিত প্রত্যয়সমূহ",
+            "file_name": "Social_Work_1st_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_1st_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "সমাজকর্মের সাথে জ্ঞানের বিভিন্ন শাখা এবং পেশার সম্পর্ক",
+            "file_name": "Social_Work_1st_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_1st_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "সমাজকর্ম পদ্ধতি",
+            "file_name": "Social_Work_1st_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_1st_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "সামাজিক নীতি ও পরিকল্পনা এবং সমাজকর্ম",
+            "file_name": "Social_Work_1st_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_1st_paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "সমাজকর্ম পেশার সমস্যা ও সম্ভাবনা",
+            "file_name": "Social_Work_1st_paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_1st_paper_Ch_08.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Social Work 2nd paper",
+        "subject_name_bn": "সমাজকর্ম ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বাংলাদেশে মৌলিক মানবিক চাহিদা",
+            "file_name": "Social_Work_2nd_paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "সমাজকর্মের শাখা",
+            "file_name": "Social_Work_2nd_paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "সামাজিক সমস্যা সমাধানে সমাজকর্মের অনুশীলন",
+            "file_name": "Social_Work_2nd_paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "সামাজিক সমস্যা প্রতিরোধ এবং সামাজিক প্রতিষ্ঠান ও সংস্থা",
+            "file_name": "Social_Work_2nd_paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "সামাজিক আইন ও সমাজকর্ম",
+            "file_name": "Social_Work_2nd_paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশে সরকারি সমাজ উন্নয়ন কার্যক্রম",
+            "file_name": "Social_Work_2nd_paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশে বেসরকারি সমাজ উন্নয়ন কার্যক্রম",
+            "file_name": "Social_Work_2nd_paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশে আন্তর্জাতিক সংস্থার সমাজ উন্নয়ন কার্যক্রম",
+            "file_name": "Social_Work_2nd_paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "সমাজকর্ম শিক্ষায় মাঠকর্ম ও অনুশীলন",
+            "file_name": "Social_Work_2nd_paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Social_Work_2nd_paper_Ch_09.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Socialogy 1st Paper",
+        "subject_name_bn": "সমাজবিজ্ঞান ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "সমাজবিজ্ঞানের উৎপত্তি ও বিকাশ",
+            "file_name": "Socialogy_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "সমাজবিজ্ঞানের বৈজ্ঞানিক মর্যাদা",
+            "file_name": "Socialogy_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "সমাজবিজ্ঞানীদের মতবাদ ও অবদান",
+            "file_name": "Socialogy_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "সমাজবিজ্ঞানের মৌল প্রত্যয়",
+            "file_name": "Socialogy_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "সামাজিক প্রতিষ্ঠান",
+            "file_name": "Socialogy_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "সমাজজীবনে প্রভাব বিস্তারকারী উপাদান",
+            "file_name": "Socialogy_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "সামাজিকীকরণ প্রক্রিয়া",
+            "file_name": "Socialogy_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "সামাজিক স্তরবিন্যাস ও অসমতা",
+            "file_name": "Socialogy_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "সামাজিক ব্যবস্থা",
+            "file_name": "Socialogy_1st_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "বিচ্যুতিমূলক আচরণ এবং অপরাধ",
+            "file_name": "Socialogy_1st_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_10.pdf"
+          },
+          {
+            "chapter_name": "সামাজিত পরিবর্তন",
+            "file_name": "Socialogy_1st_Paper_Ch_11.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_1st_Paper_Ch_11.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Socialogy 2nd Paper",
+        "subject_name_bn": "সমাজবিজ্ঞান ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "বাংলাদেশে সমাজবিজ্ঞান চর্চার বিকাশ",
+            "file_name": "Socialogy_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের সমাজ ও সংস্কৃতি",
+            "file_name": "Socialogy_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "প্রত্নতত্ত্বের ভিত্তিতে বাংলাদেশের সমাজ ও সভ্যতা",
+            "file_name": "Socialogy_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের নৃগোষ্ঠীর জীবনধারা",
+            "file_name": "Socialogy_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের অভ্যুদয়ের সামাজিক প্রেক্ষাপট",
+            "file_name": "Socialogy_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের গ্রামীণ ও শহুরে সমাজ",
+            "file_name": "Socialogy_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশে বিবাহ, পরিবার এবং জ্ঞাতিসম্পর্ক",
+            "file_name": "Socialogy_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের সামাজিক পরিবর্তন",
+            "file_name": "Socialogy_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের সামাজিক সমস্যা ও প্রতিকারের উপায়",
+            "file_name": "Socialogy_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_09.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের সামাজিক উন্নয়ন",
+            "file_name": "Socialogy_2nd_Paper_Ch_10.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Socialogy_2nd_Paper_Ch_10.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Statistics 1st Paper",
+        "subject_name_bn": "পরিসংখ্যান ১ম পত্র",
+        "chapters": [
+          {
+            "chapter_name": "পরিসংখ্যান, চলক ও প্রতীক",
+            "file_name": "Statistics_1st_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_1st_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "তথ্য সংগ্রহ, সংক্ষিপ্তকরণ ও উপস্থাপন",
+            "file_name": "Statistics_1st_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_1st_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "কেন্দ্রিয় প্রবণতা",
+            "file_name": "Statistics_1st_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_1st_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "বিস্তার পরিমাপ",
+            "file_name": "Statistics_1st_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_1st_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "পরিঘাত, বঙ্কিমতা ও সূঁচলতা",
+            "file_name": "Statistics_1st_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_1st_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "সংশ্লেষণ ও নির্ভরণ",
+            "file_name": "Statistics_1st_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_1st_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "কালীন সারি",
+            "file_name": "Statistics_1st_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_1st_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "বাংলাদেশের প্রকাশিত পরিসংখ্যান",
+            "file_name": "Statistics_1st_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_1st_Paper_Ch_08.pdf"
+          }
+        ]
+      },
+      {
+        "subject_name_en": "Statistics 2nd Paper",
+        "subject_name_bn": "পরিসংখ্যান ২য় পত্র",
+        "chapters": [
+          {
+            "chapter_name": "সম্ভাবনা",
+            "file_name": "Statistics_2nd_Paper_Ch_01.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_01.pdf"
+          },
+          {
+            "chapter_name": "দৈব চলক ও সম্ভাবনা বিন্যাস",
+            "file_name": "Statistics_2nd_Paper_Ch_02.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_02.pdf"
+          },
+          {
+            "chapter_name": "গাণিতিক প্রত্যাশা",
+            "file_name": "Statistics_2nd_Paper_Ch_03.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_03.pdf"
+          },
+          {
+            "chapter_name": "দ্বিপদী বিন্যাস",
+            "file_name": "Statistics_2nd_Paper_Ch_04.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_04.pdf"
+          },
+          {
+            "chapter_name": "পৈঁসু বিন্যাস",
+            "file_name": "Statistics_2nd_Paper_Ch_05.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_05.pdf"
+          },
+          {
+            "chapter_name": "পরিমিত বিন্যাস",
+            "file_name": "Statistics_2nd_Paper_Ch_06.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_06.pdf"
+          },
+          {
+            "chapter_name": "সূচক সংখ্যা",
+            "file_name": "Statistics_2nd_Paper_Ch_07.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_07.pdf"
+          },
+          {
+            "chapter_name": "নমুনায়ন",
+            "file_name": "Statistics_2nd_Paper_Ch_08.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_08.pdf"
+          },
+          {
+            "chapter_name": "জীব পরিসংখ্যান",
+            "file_name": "Statistics_2nd_Paper_Ch_09.pdf",
+            "pdf_link": "https://github.com/hscguidebd-ui/AlimHSCBooks/releases/download/HSCTextbooks/Statistics_2nd_Paper_Ch_09.pdf"
+          }
+        ]
+      }
+    ]
+  }
+]
